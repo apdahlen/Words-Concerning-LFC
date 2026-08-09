@@ -1,0 +1,95 @@
+% master.tex
+\documentclass[12pt]{article}
+%\documentclass[12pt,twocolumn]{article}
+
+% -------------------- Page + typography --------------------
+\usepackage[letterpaper,margin=1in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc} % safe for pdfLaTeX
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage{setspace}
+\usepackage{graphicx}
+\usepackage{parskip}        % no paragraph indent; spacing between paragraphs
+
+\usepackage{pdfpages}
+\usepackage{soul}
+
+
+% -------------------- Links (optional) --------------------
+\usepackage[hidelinks]{hyperref}
+
+% -------------------- TOC depth --------------------
+\setcounter{tocdepth}{4}
+
+
+% ---------- Header/footer ----------
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0.2pt}
+\fancyhead[L]{\small Elias Berlie. — Working Translation}
+%\fancyhead[R]{\small \leftmark}
+%\fancyfoot[C]{\small \thepage}
+\begin{document}
+
+\begin{titlepage}
+    \centering
+    \vspace*{1.5in}
+
+    {\LARGE\bfseries Elias Berlie \par}
+	    \vspace{0.35in}
+    {\LARGE Concerning the Lutheran Free Church and Its Tasks\par}
+	
+	\vspace{0.35in}
+	{ A Practical Theology of Free Church Polity in Service to the Kingdom of God on Earth\par}
+
+
+    \vfill
+
+    {\large Working English Machine Translation\par}
+    \vspace{0.15in}
+
+    {\small Machine translation using Aaron Dahlen's \par}
+    {\small 11-step translation process\par}
+
+    \vspace{0.15in}
+	
+	\noindent\textit{Last compiled: \today}
+
+\end{titlepage}
+
+
+
+\pagenumbering{roman}
+\pagestyle{plain}
+\tableofcontents
+\newpage
+
+
+\textbf{Note on Translation}
+
+This working English translation was produced by machine using Aaron Dahlen's 11-step translation process. The process uses artificial-intelligence language tools for transcription, translation, comparison, contextual analysis, and consistency checks against the original Norwegian text.
+
+The resulting English text has not been independently or comprehensively edited by a human translator. The 11-step process is intended to improve the quality and traceability of machine translation, but it does not guarantee accuracy. Difficulties may remain, particularly in archaic language, idiom, historical terminology, and theological expression.
+
+The original Norwegian text remains authoritative. This English text should therefore be treated as a machine-generated working translation rather than a critical or scholarly translation.
+
+\textit{The subtitle and descriptive titles for Parts I--VI are editorial
+additions and do not appear in the original Norwegian text.}
+
+Source files, translation materials, and revision history are maintained in the associated GitHub repository.
+
+
+\newpage
+\pagenumbering{arabic}
+
+\input{Page_177/Page_177.tex}
+\input{Page_203/Page_203.tex}
+\input{Page_218/Page_218.tex}
+\input{Page_242/Page_242.tex}
+\input{Page_274/Page_274.tex}
+\input{Page_290/Page_290.tex}
+
+\end{document}
+
