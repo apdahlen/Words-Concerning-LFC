@@ -1,0 +1,341 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards
+
+* “Eders fader” — older plural/formal possessive form. In contemporary English Scripture, “your Father” is appropriate. The plural force should be understood communally, but English “your” naturally permits that.
+* “barmhjertig / barmhjertighed” — doctrinally weighty. “Merciful / mercy” is preferable to softer terms such as “compassionate / compassion” when translating the central biblical statement, because Luke 6:36 conventionally concerns divine mercy. In explanatory passages, however, “pity,” “compassion,” and “have pity upon” may be needed where the author explicates mercy as God’s response to misery.
+* “lært at kjende dig selv” — literally “learned to know yourself,” with pietistic resonance: spiritual self-knowledge under conviction of sin. It must not be reduced to ordinary psychological self-awareness.
+* “gjort dig fortjent til Guds vrede og straf” — “made yourself deserving of God’s wrath and punishment.” “Fortjent” has juridical and doctrinal force.
+* “gruelig attest” — literally a dreadful/frightful “certificate,” “testimonial,” or “assessment.” The point is an authoritative judgment pronounced upon fallen humanity. “Terrible testimony” or “dreadful verdict” can preserve the rhetorical force better than a bureaucratically literal “certificate.”
+* “fortapt og fordømt” — doctrinal language from Luther’s catechetical formulation. “Lost and condemned” should be retained.
+* “svar” in “ganske svar” — archaic usage meaning grievous, severe, heavy, or dire, not modern Norwegian “answer.”
+* “forholder dette sig saa” — “if the matter stands thus,” an older argumentative formula.
+* “ynkes over” — “have pity upon,” “be moved with pity for.” It is stronger and more active in theological context than merely “feel sorry for.”
+* “jammer” — “misery,” “wretchedness,” “distress.” It carries both spiritual and temporal suffering.
+* “deltagelse” — here “sympathy,” “fellow-feeling,” not “participation.”
+* “avmægtige” — powerless, impotent, unable to act.
+* “medynk” — compassion, pity.
+* “sættes istand til” — enabled / possesses what is necessary. The phrase is awkward if translated literally; the author means that God has both the power and will necessary to save.
+* “vaade” — archaic Danish-Norwegian: distress, calamity, misery.
+* “raade hjælp” / “hjælpen raade” — provide or devise help.
+* “faderlig hu” — fatherly mind, disposition, or regard; “turned his fatherly heart/mind toward me.”
+* “foruten svik” — without deceit, without withholding, faithfully.
+* “fast og tryg grund” — “firm and secure ground,” spiritually: a foundation for faith in life and death.
+* “ansigtsdrag” — features of a face. The metaphor concerns God making himself knowable in Christ.
+* “bundløs medlidenhet” — fathomless compassion.
+* “evighetsdybe øine” — literally “eternity-deep eyes,” an unusually concentrated devotional image. It should not be flattened into “eternal eyes.”
+* “bedring” in the hymn stanza — likely repentance/amendment, not mere improvement.
+* “naaden sød” — “grace sweet,” older devotional diction; the sweetness is experiential and soteriological.
+* “indsluttet” — enclosed, contained.
+* “Gud ske lov!” — “Thanks be to God!” / “Praise be to God!” The former preserves traditional devotional gravity.
+* “bud, en ordre” — command, an order. The duplication intensifies obligation.
+* “Være undergit skal du se det er saa” — idiomatic, roughly “Just be submissive, and you will see that this is so,” or more naturally, “Only submit yourself, and you will see that it is so.” The line is difficult and colloquial within the sermon.
+* “sted i” — placed in, situated in, afflicted by.
+* “timelig og aandelig” — temporal and spiritual.
+* “gaa os til hjerte” — go to our heart, affect us inwardly and morally.
+* “trækkes av den og piskes” — drawn by it and scourged/driven into action. “Piskes” is deliberately forceful and should not be softened to “encouraged.”
+* “i slægt med” — “akin to,” “of the same family as.”
+* “velberaad hu” — deliberate intention, considered resolve.
+* “bedragne av synden” — deceived by sin, with biblical resonance.
+* “daarende indflydelse” — deluding/beguiling influence.
+* “lønlig hjertegraat” — hidden or secret weeping of the heart.
+* “enbaarne søn” — only-begotten Son. Since the custom profile asks to resist inherited KJV diction, “only Son” may be better in authorial prose, though “only-begotten Son” has precise historical theological resonance.
+* “mismod” — despondency, discouragement.
+* “jage efter at drive det” — quotation/paraphrase of Philippians 3:12; older phrasing meaning press on to grasp/attain it.
+* “grebne av Kristus” — apprehended/taken hold of by Christ.
+* “offervillige barmhjertighet” — self-sacrificing mercy, mercy willing to make sacrifice.
+* “forsmaaede frelsers bristende øine” — the rejected/despised Savior’s breaking/dying eyes. “Bristende” refers to eyes dimming in death.
+* “utvides” — enlarged, expanded; likely biblical resonance with enlargement of heart.
+* “varm forbøn” — fervent intercession.
+* “indremission” — the organized “inner mission,” i.e. domestic/home mission directed toward evangelization and revival within one’s own nominally Christian population. A merely literal “inner mission” may require contextual preservation.
+
+Syntactic Hazards
+
+* The prose repeatedly builds through long causal sequences: sin → wrath and punishment → mercy → divine action. These must not be reduced to short explanatory sentences.
+* Rhetorical questions occur in clusters: “But is this testimony true? Can things really be so bad with us? Does the testimony fit us, fit you?” The escalating interrogation addresses the conscience and should remain.
+* Semicolon-like accumulations and hymn quotations interrupt but also reinforce the argument. Their placement should remain structurally intact.
+* The comparison between human pity and divine mercy develops through a sustained antithesis and must not be rearranged.
+* Several sentences begin with adversative pivots: “Men” / “Anderledes derimot” / “Nei” / “Men — Jesus sier noget mere.” These are crucial sermonic turns.
+* The paragraph beginning “Hvad mener han…” advances by definition, observation, and moral consequence. Breaking it up excessively would weaken its pressure.
+* “Han siger jo” is not merely informational; “jo” appeals to what the hearer already knows: “For he does say…” / “He says, after all…”
+* The final section moves from confessed inadequacy to exhortation and then to the means by which mercy grows. This sequence must remain intact.
+* Embedded poetry retains archaic syntax and should remain recognizably hymnic rather than be normalized into prose.
+
+Theological Hazards
+
+* The opening assumes Lutheran anthropology: knowledge of oneself leads to acknowledgment of sin and deserved divine wrath.
+* “God’s wrath and punishment” must remain objective theological realities, not psychological feelings of guilt.
+* Luther’s “lost and condemned to eternal death” belongs to catechetical theology concerning redemption from fallen humanity’s condition.
+* Divine mercy is not mere affect. The sermon explicitly distinguishes powerless human sympathy from God’s effectual mercy, which has both will and power to save.
+* Christ is presented as the disclosure of the otherwise incomprehensible God: “This face is called Christ.” The Christological identification must remain sharp.
+* 2 Corinthians 8:9 is used to define divine compassion through incarnation and self-emptying poverty.
+* The hymn imagery of Christ’s death as an abyss swallowing sins is strongly atonement-centered.
+* The transition from receiving mercy to being commanded to show mercy follows Luke 6:36 and must retain the relation between divine mercy and Christian ethical obligation.
+* Mercy toward others includes both temporal relief and concern for spiritual salvation.
+* Those “without God and without hope” evokes Ephesians 2:12 and describes objective spiritual alienation.
+* The Father’s mercy culminates in the sacrifice of his Son. This must not be generalized into altruism.
+* Christian sanctification is presented as striving because one has first been grasped by Christ, echoing Philippians 3:12. Grace precedes and grounds effort.
+* Contemplation of the merciful Father and crucified Christ produces practical mercy, intercession, and financial support for mission.
+
+Voice Hazards
+
+* The sermon moves continually from doctrinal statement to direct second-person address. “You” must remain frequent and personal.
+* “Yes, it does!” and similar answers have sharp oral immediacy and should not become academic paraphrase.
+* “Ah,” “No,” “Yes,” and repeated phrases such as “deep, deep” and “long, long” belong to the spoken devotional cadence.
+* The author deliberately presses the hearer with shame: “must cast down our eyes in shame.” This should not be softened.
+* The line “And commands, orders, we are not always fond of. Not even Jesus’ commands” derives force from its bluntness.
+* The call to mercy is not sentimental philanthropy; it implicates hearers who themselves depend upon divine mercy.
+* The closing appeal to support home mission is concrete. It must not be spiritualized away.
+
+STEP 2: IDIOM ANALYSIS
+
+* “lært at kjende dig selv” — a pietistic and Lutheran expression for coming to true spiritual self-knowledge through the Law: one recognizes oneself as sinner before God.
+* “gjort dig fortjent til Guds vrede og straf” — catechetical/juridical language. Literal force is necessary because the sermon rests on deserved judgment.
+* “en gruelig attest” — metaphor of receiving an official characterization or testimonial. Luther gives humanity a dreadful “record”: lost and condemned.
+* “Passer attesten paa os, paa dig?” — literally whether the certificate “fits” us. Idiomatically, whether the judgment truly describes us.
+* “saa mangen gang sang” — communal hymn-memory functions as corroborating testimony. The congregation has already confessed the doctrine in song.
+* “ynkes over vor jammer” — likely catechetical wording defining divine mercy as God’s pity toward human misery.
+* “det blir bare med at ‘ynkes’” — idiom: it goes no further than pity; emotion produces no action.
+* “staar avmægtige og hjælpeløse” — unable to intervene despite sympathy.
+* “han sitter ikke deroppe i sin himmel og salighed” — deliberately concrete polemical image: God is not a detached heavenly spectator.
+* “hjælpen raade” — archaic hymn phrase: plan/provide the means of rescue.
+* “kastet derpaa … det kjæreste som han aatte” — sacrificial image: God “cast” or gave what was dearest to him, meaning his Son.
+* “fast og tryg grund at bygge paa i liv og død” — traditional Christian metaphor of a secure foundation for confidence in both living and dying.
+* “avsløret sine ansigtsdrag” — revelation represented as unveiling the face.
+* “Dette ansigt heter Kristus” — compressed Christological metaphor: the unknowable God’s revealed face is Christ.
+* “evighetsdybe øine” — Christ’s gaze bears the depth of eternity; not an ordinary physical description.
+* “Skjønt han var rik…” — 2 Corinthians 8:9. A natural English equivalent is modern biblical phrasing: “Though he was rich, yet for your sake he became poor, so that through his poverty you might become rich.”
+* “Aa avgrund!” — devotional exclamation, “O abyss!” Here the abyss is Christ’s atoning death/mercy that engulfs sin.
+* “Jesu blodig sved” — bloody sweat, alluding to Gethsemane, Luke 22:44.
+* “Vort haab, vor frelse, vort liv er indsluttet i det” — “our hope, our salvation, our life are contained in it.” The phrase makes the saying a summary of gospel assurance.
+* “Være undergit skal du se det er saa” — somewhat obscure colloquial exhortation. It appears to mean that willing submission to Jesus’ authority exposes our reluctance toward commands.
+* “gaa os til hjerte” — not merely “touch us emotionally” but penetrate conscience and move the will.
+* “piskes at gjøre” — literally “whipped into doing”; morally forceful language describing compassion as an inward compulsion to act.
+* “i slægt med Faderens” — “akin to the Father’s,” asking whether Christian mercy bears the family likeness of divine mercy.
+* “det skar ham i hans hjerte” — “it cut him to the heart.” Strong affective language.
+* “uten Gud og uten haab” — direct biblical echo of Ephesians 2:12: “without God and without hope.”
+* “med velberaad hu” — “with deliberate intent,” emphasizing conscious rebellion.
+* “verdens daarende indflydelse” — the world’s deluding or beguiling power; echoes biblical warnings concerning deception.
+* “lønlig hjertegraat” — hidden heart-weeping: inward sorrow unknown to others.
+* “jage efter at drive det” — Philippians 3 vocabulary; should be translated by the biblical conceptual equivalent “press on to take hold of it.”
+* “grebne av Kristus” — “taken hold of by Christ,” retaining the reciprocal structure of Philippians 3:12.
+* “se ind i … ansigt” and “ind i … øine” — devotional contemplation, not literal visual mysticism: sustained attention to God’s revealed mercy in Christ crucified.
+* “Dit hjerte skal utvides” — likely evokes biblical language of an enlarged heart; moral capacity for compassion increases.
+* “varm forbøn” — fervent, heartfelt intercession.
+* “indremission” — historically a movement of evangelization among one’s own people rather than foreign mission. “Home mission” is the most natural contextual English equivalent.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Thesis of consolation: Jesus’ words “Your Father is merciful” offer profound comfort precisely to the person who has learned that he or she is a great sinner deserving God’s wrath and punishment.
+* Confirmation of human guilt: Luther’s catechetical verdict, “lost and condemned to eternal death,” is tested rhetorically and affirmed as genuinely applicable to both preacher and hearer.
+* Intensification through hymn confession: the congregation’s own sung confession verifies the greatness and severity of sin.
+* Gospel pivot: precisely because sin against the living God is so grave, Christ’s word concerning the Father’s mercy becomes extraordinarily good news.
+* Definition of mercy: the catechetical explanation “He has pity upon our misery” is introduced.
+* Qualification of that definition: human pity may remain mere feeling because humans either lack power to help or lack willingness to bear the necessary cost.
+* Divine contrast: the Father not only pities but has both the power and will to save from misery, and he actually employs both.
+* Hymnic proof of divine action: God’s eternal pity culminates in giving what was dearest to him.
+* Christological deepening: the incomprehensible God has revealed his face in Christ; Christ’s self-impoverishment manifests fathomless divine compassion.
+* Atonement and assurance: Christ’s death, bloody sweat, and mercy engulf sin; thus hope, salvation, and life are contained in the saying, “Your Father is merciful.”
+* Major ethical pivot: Jesus says more than a word of consolation. He commands, “Be merciful.”
+* Identification of the addressees: the command belongs to all who know that they themselves need the Father’s mercy.
+* Exposure of resistance: hearers do not naturally welcome commands, not even Jesus’ commands.
+* Definition of Christian mercy: believers are to pity the temporal and spiritual misery of brothers and sisters in the world, allowing that misery to pierce the heart and compel practical action.
+* Standard of comparison: Jesus does not merely say “be merciful,” but “be merciful as your Father.”
+* Conscience question: does our mercy bear kinship to the Father’s? The anticipated answer is shamefully “no.”
+* Divine model restated: God’s heart was pierced by the world’s impending ruin, and in love he came down to relieve its pain.
+* Concrete application: are Christians similarly pierced by the spiritual misery of their own people who live “without God and without hope”?
+* Nuance regarding the lost: the sermon distinguishes deliberate rebels from many others who are deceived by sin and the world, grieve inwardly, and long for peace.
+* Measure of required compassion: believers must pity them with a compassion patterned upon the Father, whose mercy gave his Son.
+* Recognition of failure: believers remain far from this goal.
+* Guard against despair: acknowledgment of failure must not produce despondency but renewed pursuit, because Christ has first grasped the believer.
+* Means of growth: prolonged contemplation of the merciful Father and the rejected, dying Savior.
+* Final practical result: the heart becomes enlarged for greater compassion, fervent intercession for the salvation of one’s own people, and sacrificial support for home mission.
+* Concluding imperative: “Be merciful—as your Father!”
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* “Eders fader er barmhjertig” / “Your Father is merciful” — Luke 6:36.
+* “Vær barmhjertige … som eders fader” — Luke 6:36: “Be merciful, just as your Father is merciful.”
+* “fortapt og fordømt til den evige død” — Luther’s Small Catechism, Second Article, rather than a direct Scripture quotation; it summarizes biblical teaching on sin, death, and redemption.
+* “Guds vrede og straf” — broad Pauline and biblical language concerning divine wrath against sin, e.g. Romans 1:18; Romans 6:23 in relation to death as sin’s consequence.
+* “den levende Gud” — frequent biblical designation, e.g. Hebrews 10:31, “the hands of the living God,” with implicit gravity concerning sin against him.
+* “Skjønt han var rik blev han for vor skyld fattig…” — 2 Corinthians 8:9.
+* Christ as the revealed face of God — thematic resonance with John 1:18; John 14:9; 2 Corinthians 4:6; Colossians 1:15.
+* “Jesu blodig sved” — Luke 22:44.
+* “uten Gud og uten haab” — Ephesians 2:12, though the Norwegian reverses the English order often familiar from modern translations: “without hope and without God in the world.”
+* “bedragne av synden” — likely resonance with Hebrews 3:13, “the deceitfulness of sin.”
+* “hans enbaarne søn” — John 3:16 is the clearest likely echo.
+* “jage efter … fordi vi er grebne av Kristus” — Philippians 3:12: Paul presses on to take hold of that for which Christ Jesus took hold of him.
+* “Dit hjerte skal utvides” — possible resonance with Psalm 119:32 and related biblical imagery of an enlarged heart.
+* The language of building upon a “fast og tryg grund” — general biblical foundation imagery, especially Matthew 7:24–25 and 1 Corinthians 3:11, though no precise quotation is evident.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* The opening consolation must remain inseparable from the severity of the preceding diagnosis: mercy is glorious because the hearer is truly guilty.
+* The rhetorical interrogation about Luther’s verdict must remain confrontational: “Does the verdict fit us—fit you? Yes, it does!”
+* Divine wrath and punishment must not be converted into vague “consequences.”
+* The contrast between human pity and divine mercy must retain the accusation that humans are often not merely powerless but unwilling to make the required sacrifice.
+* “No, he is not like that” must retain its oral corrective force.
+* Christ’s impoverishment and death must remain the concrete proof of God’s mercy.
+* The ethical turn must be abrupt: “But—Jesus says something more.”
+* “A command, an order” must retain its pressure.
+* “Not even Jesus’ commands” must remain an uncomfortable indictment.
+* The misery of others must “go to our heart” and even “drive” or “scourge” us into action.
+* The question whether our mercy resembles the Father’s must retain the implied shame.
+* Spiritual peril among one’s own people must remain explicit.
+* The hidden grief of those deceived by sin should introduce tenderness without removing their objective spiritual need.
+* The confession of distance from the goal should remain severe yet immediately turn toward perseverance rather than despair.
+* The final missionary appeal must flow as a necessary ethical consequence of divine mercy, not as an optional charitable suggestion.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* “skal” in “vi skal ynkes” / implied throughout the command — render as “are to” or “must” when moral obligation is intended.
+* “vil Jesus skal gaa os til hjerte” — literally “Jesus wills that this misery should go to our heart.” The translation should preserve purpose and demand: “Jesus wills that this misery should go to our hearts.”
+* “skal se det er saa” — “you will see that it is so.”
+* “han venter at vi … prøver paa at lyde ham” — “he expects us at least to try to obey him.” “Expects” must not be weakened to “hopes.”
+* “maa slaa vort øie … ned” — necessity under moral recognition: “must lower our eyes in shame.”
+* “la vor erkjendelse … ikke friste os” — imperative: “let our recognition of this not tempt us to despondency.”
+* “Jeg ved det skal hjælpe” — confident assertion: “I know it will help.”
+* “Dit hjerte skal utvides” — prediction/assurance: “Your heart will be enlarged.”
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* barmhjertig — merciful
+* barmhjertighed — mercy
+* medynk / medlidenhet — compassion
+* ynkes over — have pity upon / be moved with pity for
+* jammer — misery
+* synd — sin
+* synder — sinner
+* Guds vrede — God’s wrath
+* straf — punishment
+* fortapt — lost
+* fordømt — condemned
+* evige død — eternal death
+* frelse — salvation
+* frelse/frelse i jammeren — save / salvation, according to grammatical context
+* nåde — grace
+* Faderen — the Father
+* frelser — Savior
+* enbaarne søn — only Son
+* forbøn — intercession
+* indremission — home mission
+* timelig — temporal
+* aandelig — spiritual
+* bedraget av synden — deceived by sin
+* håb — hope
+* liv — life
+* død — death
+
+The central pair “merciful / mercy” should remain stable wherever the author builds explicitly upon Luke 6:36.
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* The Lutheran “attest” image will be preserved as a “verdict” or “testimony,” not dissolved into an abstract doctrinal statement.
+* God’s unveiled “features” and Christ as God’s “face” will remain as facial imagery.
+* Christ’s “eternity-deep eyes” will be preserved rather than explained away.
+* The hymn’s “abyss” swallowing sins will remain an abyss.
+* Jesus’ bloody sweat will remain a voice that “cries” mercy.
+* Misery going “to our heart” will remain embodied moral imagery.
+* Compassion “driving” the hearer to action will retain physical pressure.
+* Mercy being “akin” to the Father’s preserves the familial metaphor.
+* The thought of the world’s destruction “cutting” God to the heart will remain.
+* Secret “weeping of the heart” will remain figurative rather than becoming “private sadness.”
+* The believer “taken hold of by Christ” will remain the controlling Philippians metaphor.
+* Looking deeply into the Father’s face and the Savior’s dying eyes will remain.
+* The heart being “enlarged” will remain biblical imagery.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Severity: the hearer is a great sinner deserving wrath and punishment.
+* Consolation: “Your Father is merciful.”
+* Analytical contrast: human sympathy often stops at feeling; divine mercy acts.
+* Heightened consolation: God has revealed his merciful face in Christ and given his Son.
+* Joy: “Thanks be to God!”
+* Sudden severity: “But—Jesus says something more: ‘Be merciful!’”
+* Reproof: Christians dislike commands and frequently fail to resemble the Father.
+* Pastoral compassion: many spiritually lost people are deceived, sorrowing, and longing for peace.
+* Shame: believers remain far from the standard of the Father’s mercy.
+* Encouragement: failure is not grounds for despondency but for pressing onward because Christ has first grasped us.
+* Hopeful exhortation: contemplation of Christ enlarges the heart.
+* Concrete final demand: intercede and give for mission.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Rhetorical questions will remain grouped and cumulative.
+* Short emphatic answers such as “Yes, it does!” and “No, he is not like that” will be retained.
+* Repetition such as “all, all,” “long, long,” and “deep, deep” will remain where it carries sermonic force.
+* Semicolons and long sentences will be used where the author accumulates reasoning.
+* Exclamations will be preserved selectively, especially where they belong to the source’s oral pressure.
+* Hymn stanzas will retain lineation.
+* Direct address—“you,” “brothers and sisters”—will remain prominent.
+* The final sentence will preserve the clipped imperative and dash: “Be merciful—as your Father!”
+
+STEP 11: ACADEMIC TRANSLATION
+
+YOUR FATHER IS MERCIFUL
+
+Luke 6:36.
+
+There is a glorious consolation in this word of Jesus for you who have learned to know yourself and have discovered that you are a sinner, a great sinner, who by disobedience and wickedness has made yourself deserving of God’s wrath and punishment.
+
+Luther gives himself and all of us a dreadful verdict in the Second Article: “lost and condemned to eternal death.” But is this verdict true? Can things really be so bad with us? Does the verdict fit us, fit you? Yes, it does! It is true what you and I have sung so many times:
+
+“My sin is great and grievous quite,
+from it my sorrows spring!”
+
+But if the matter stands thus, that my sin, your sin against the living God, is so great and exposes you and me to his wrath and punishment, then this is a good word from Jesus: “Your Father is merciful.”
+
+In our explanation, the question of what God’s mercy is receives this answer: “He has pity upon our misery.”
+
+It is a beautiful answer, deep and true as far as it reaches. But it scarcely reaches far enough—that is, if we try to explain God’s pity from ordinary human relations. For human beings too can have pity upon one another and upon one another’s need and misery. But often it goes no further than “having pity,” or feeling sympathy and fellow-feeling with those whose need and misery we know. And why? Ah, partly because we stand powerless and helpless when the question becomes one of helping in the need, and partly because we are so often unwilling to make the sacrifice required of us if the need and misery of our fellow human beings, our brothers and sisters, is to be relieved and remedied.
+
+With the Father, however, it is otherwise. He does not merely “have pity upon our misery”; he does not sit up there in his heaven and blessedness feeling sorry for us who are in misery and need, without being able and without being willing to remedy our deep misery. No, he is not like that. He possesses the power and the will by which he is able to save in the midst of misery. And he uses this power and this will.
+
+“Then God in eternity had pity
+upon this great distress of mine;
+he remembered his mercy
+and willed to provide me help.
+He turned a fatherly mind toward me,
+and then, without deceit, gave forth
+the dearest thing that he possessed.”
+
+“Your Father is merciful.”
+
+Ah, you who long to find firm and secure ground upon which to build in life and in death—here it is: God’s mercy. “The eternal and incomprehensible One has unveiled the features of his face to us. This face is called Christ. With fathomless compassion Christ’s eternity-deep eyes look upon us. We know his compassion: ‘Though he was rich, for our sake he became poor, so that through his poverty we might become rich.’”
+
+“O abyss! which all our sins
+has swallowed and put to death through Jesus’ death,
+and sends us only to repentance,
+that we may find grace sweet.
+Here Jesus’ bloody sweat cries out:
+Mercy! Mercy!”
+
+Yes, we surely think this word of Jesus is good: “Your Father is merciful.” Our hope, our salvation, our life are contained in it. Thanks be to God!
+
+But—Jesus says something more: “Be merciful!” A command, an order from Jesus, then. And to whom? To all, all who know that they need “the Father’s” mercy. And commands, orders, we are not always fond of. Not even Jesus’ commands. Submit yourself, and you will see that it is so. But Jesus has said it, and he expects us at least to try to obey him.
+
+What does he mean when he says: “Be merciful”? He means that we are to have pity upon the misery in which our brothers and sisters in the world are placed. And there is still so much misery, temporal and spiritual. And Jesus wills that this misery should go to our hearts, so that we are drawn by it and driven to do what we can to relieve it.
+
+For he says: “Be merciful as your Father.”
+
+Brothers and sisters, is our mercy akin to the Father’s? Ah, I am so afraid that many of us must lower our eyes in shame and answer, humiliating though it is: No.
+
+Of the Father’s mercy we sing:
+
+“The thought soon came to him
+that the world must perish;
+it cut him to the heart.
+In such heartfelt love
+he came down to us upon the earth
+to relieve our pain.”
+
+Such is his mercy. But ours? Does the thought cut us to the heart that many of our own people in this land live “without God and without hope”? Not only those who with deliberate intent have torn themselves away from God and chosen to live in rebellion against him, but the many who are deceived by sin and by the beguiling influence of the world, and who grieve over it and long for peace. It is surely true that there are many who go about with “secret weeping of the heart.” And here Jesus expects us to be merciful, to have pity upon them—yes, with such compassion as the Father’s, whose sacrifice was his only Son.
+
+Yes, how far we still are from the goal! But let our recognition of this not tempt us to despondency, but rather to “press on to take hold of it because we have been taken hold of by Christ.”
+
+Where, then, or in what way, can more of this self-sacrificing mercy become ours? I think I will answer: by looking long, long into the face of the merciful Father, deep, deep into the dying eyes of the rejected Savior, and remembering that it is he who says to us: “Be merciful!” I know it will help. Your heart will be enlarged to contain more of that compassion which drives you to fervent intercession also for the salvation of our own people, and drives you to send your gift to our home mission.
+
+Be merciful—as your Father!
+
+E. B.

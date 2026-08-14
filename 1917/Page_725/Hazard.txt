@@ -1,0 +1,290 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards
+
+* “Hvorfor kan nogen faa brød?” literally reads “From where can anyone get bread?” / “Whence can one obtain bread?” The expression is drawn from Mark 8 and concerns the apparent impossibility of feeding the multitude in the wilderness. “Where can anyone get bread?” best preserves both the question and its later spiritual extension.
+* “pinte hjerter” means hearts in distress, anguish, or torment. “Tormented hearts” would be possible, but “anguished hearts” better preserves pastoral seriousness without exaggeration.
+* “taareløse øine” is rhetorically stronger than merely “dry eyes”: grief can be so severe that tears no longer come. The contrast “tear-filled or, still worse, tearless eyes” should be retained.
+* “legemlige nød og trang” combines bodily distress with bodily need. “Physical distress and want” or “bodily distress and need” preserves the double force.
+* “ynkedes inderlig” is the traditional biblical expression for being moved with compassion. The phrase carries a visceral Scriptural resonance, not merely mild sympathy.
+* “nærgaaende” here means pressing closely upon a person, becoming personally urgent or painfully immediate. A literal “intrusive” would be wrong.
+* “i eie den magt” means still possesses the power. The somewhat formal construction should not be flattened into merely “can.”
+* “barnlig fortrøstning” is childlike trust or confidence in God, with devotional rather than childish connotations.
+* “tarvelig” in older Scandinavian usage does not mean “shabby” in the modern pejorative sense. It means simple, plain, modest, frugal.
+* “nøisomt” means contented with little, frugal, temperate, not demanding abundance.
+* “retter” means dishes/courses of food, not legal judgments or rights.
+* “samle levningerne” refers to gathering the fragments/remnants after the feeding miracle and therefore should retain biblical concreteness.
+* “bordbøn” is grace said at meals, literally “table prayer.”
+* “utgaat fra kristelige hjem” means having come from or been brought up in Christian homes.
+* “fint nok” means socially refined, fashionable, respectable, or sophisticated enough. It carries the pressure of assimilation and embarrassment.
+* “kald og stand” is a traditional Lutheran social-vocational pair: one’s calling and station in life. “Calling and station” should be retained.
+* “hjælpe Gud med at bespise andre” is intentionally striking: God’s people are to serve as instruments through whom God feeds others. It should not be corrected into a more abstract theological formulation.
+* “indremission” refers to “home mission” or “inner mission,” the organized Christian work directed especially toward spiritual renewal and evangelization among one’s own people rather than foreign mission.
+* “arbeidere” in the mission context means workers or laborers in Christian service.
+* “understøttelse” means financial support or maintenance.
+* “missionskassen” is the mission treasury/fund.
+* “gjerning” means work, undertaking, or ministry; here “work” is natural but should retain religious seriousness.
+* “med Jesu velsignelse over sig” means with Jesus’ blessing resting upon it.
+* “trængende” can mean needy, destitute, or those in want. In the concluding accumulation—“fattige, trængende, hungrende”—the distinct terms should remain cumulative rather than being collapsed into one synonym.
+
+Syntactic Hazards
+
+* The prose frequently accumulates clauses through coordination rather than dividing thought into short modern sentences. The English should preserve this sermonic movement.
+* The opening develops from human anxiety, to the biblical speakers, to Jesus as the one in whom help is found. Breaking this into clipped statements would weaken the pastoral argument.
+* Several paragraphs hinge upon “Og” (“And”) at the beginning of sentences. These continuations are part of the oral and biblical cadence and should often remain.
+* The description of Jesus’ response to bodily need uses parallel examples—the wedding at Cana, compassion for the crowds, then the assertion that he remains the same. This progression should not be reordered.
+* The hymn stanzas depend upon imperative repetition: “Sørg…” (“Care…” / “Provide…”). An English rendering must preserve the repeated petition without sounding merely colloquial.
+* The paragraph concerning simplicity, leftovers, and thanksgiving is constructed as a sequence of lessons from the feeding narrative. The sequence should remain visible.
+* The criticism of young people abandoning grace at meals gains force by rhetorical accumulation: Christian home → strangers → social conformity → return home → shame before praying parents. This sequence must remain intact.
+* “Hvorfor? Aa fordi…” is an oral rhetorical turn. It should remain sharp: “Why? Ah, because…”
+* The mission appeal depends upon Jesus’ biblical question, “Hvor mange brød har I?” followed by the author’s expansion of its addressees from mission leaders to every reader. That rhetorical widening must be preserved.
+* The final exhortation uses direct second-person address and a sequence of nouns—bread, food and drink, God’s saving word—to fuse literal and spiritual nourishment.
+
+Theological Hazards
+
+* Jesus’ compassion for bodily suffering must not be spiritualized away. The author deliberately insists that Christ cares about physical hunger, grief, and temporal need.
+* Hebrews 13:8 functions doctrinally: the historical Jesus who showed compassion is the same living Christ now. The argument depends on Christological continuity.
+* “fred og hvile” has strong devotional resonance: peace and rest are found in Christ amid anxiety.
+* The hymn’s language of divine providence expresses reliance upon the Father’s comprehensive care over future, vocation, labor, joy, and suffering.
+* Frugality is not presented merely as economic efficiency but as discipleship learned from Jesus.
+* Thanksgiving before meals is treated as imitation of Christ and confession of Christian identity.
+* “whose name they nevertheless bear” refers to the name “Christian”; it is an ethical charge of inconsistency between Christian identity and practice.
+* “help God feed others” concerns Christian vocation as instrumental participation in divine care, not supplementation of divine inability.
+* The transition from bodily food to “the food by which the soul can be filled and live” introduces the Word of God as spiritual nourishment.
+* “God’s saving word” must retain its soteriological force: the Word is not merely religious instruction but the Word through which salvation is given.
+* The abundance motif is theological: enough exists if it is distributed under Jesus’ blessing. The feeding miracle serves as both historical event and model of Christian stewardship.
+* The concluding statement “There is blessing in it” carries both divine favor and spiritual fruitfulness.
+
+Voice Hazards
+
+* The voice is pastoral but not sentimental. Compassion quickly becomes admonition, and consolation becomes responsibility.
+* The author addresses readers’ anxiety personally, then directly rebukes wastefulness, social embarrassment about prayer, and failure to give.
+* “Jeg vilde gjerne faa sige…” has modest surface phrasing but introduces a firm exhortation. It should not be rendered timidly.
+* The repeated “min bror og søster” makes the appeal intimate and ecclesial without becoming casual.
+* The critique of Scandinavian immigrants adopting American habits contains cultural and moral pressure that should not be softened.
+* The final questions—“And what shall we answer him?” and “do you understand what Jesus wants of you?”—must retain their direct claim upon the reader’s conscience.
+
+STEP 2: IDIOM ANALYSIS
+
+* “Hvorfor kan nogen faa brød?” reflects Mark 8:4, where the disciples ask how anyone could satisfy the crowd with bread in a desolate place. The Norwegian title slightly isolates the question and thereby makes it applicable to contemporary anxiety. “Where can anyone get bread?” preserves that portability.
+* “med pinte hjerter” is a devotional expression for inward suffering under anxiety. It should remain emotionally concrete rather than become “with serious concerns.”
+* “taarefyldte eller endda værre taareløse øine” exploits a familiar devotional paradox: grief beyond tears may be worse than visible weeping. The literal imagery should be retained.
+* “hos ham var der hjælp at faa” literally means that with him help was “to be had.” Natural English with similar older devotional coloring is “with him help was to be found.”
+* “la for dagen” is idiomatic: “showed,” “manifested,” “gave evidence of.” Here “showed” is sufficient, but the solemn context may favor “manifested.”
+* “ynkedes inderlig” corresponds to biblical language of Jesus being moved with compassion. A modern English Bible often uses “had compassion,” while older translations often intensify the phrase. “Was deeply moved with compassion” preserves the Norwegian wording without KJV imitation.
+* “som han var, saa er han endnu” is almost creedal in rhythm: “And as he was, so he still is.” The parallelism matters.
+* “i eie den magt” is idiomatic possession language: “he still possesses the power.”
+* “gaa … til Jesus” is devotional language for bringing anxieties to Christ in prayer and trust. “Go, therefore, with the many anxious questions … to Jesus” preserves the active metaphor.
+* “barnlig fortrøstning” echoes the theology of childlike faith and trust in the heavenly Father. “Childlike confidence” is preferable to “simple trust,” which may lose the filial element.
+* In the hymn, “Sørg” means “take care,” “provide,” or “care for,” not “worry.” The poetic contrast is precisely that the believer refuses anxious care because the Father is asked to exercise providential care. English must distinguish these meanings.
+* “kald og stand” belongs to Lutheran vocation language: God places a person within a calling and station. “Calling and station” preserves this theological-social framework.
+* “spise sig mæt” means to eat until satisfied/full. “To eat one’s fill” preserves the concrete idiom.
+* “gaar til spilde” means is wasted/goes to waste and directly echoes the command concerning the fragments.
+* “holde bordbøn” means “say grace” or “pray at table.” Because the author repeats the noun, “say grace at table” / “table prayer” may be preferable for consistency.
+* “hvis navn de dog bærer” is a compact allusion to the name “Christian,” i.e., Christ’s name. The author does not spell this out, and the translation should not over-explain it.
+* “det er ikke fint nok” is culturally bound social embarrassment: public prayer appears insufficiently polished or socially acceptable. “It is not refined enough” preserves the class/status nuance better than “not cool.”
+* “bære billedet … i vor sjæl” means keeping the vivid picture of another person’s need inwardly before oneself. Literal metaphor is intelligible and should be retained.
+* “følge i hans spor” means follow in his footsteps. It is conventional Christian discipleship language.
+* “hver som signer sin bror” uses “bless” in the sense of doing good to another and pronouncing/bringing blessing. “Everyone who blesses his brother” retains the biblical register.
+* “ta vare paa” the mission means to attend to, care for, or administer it.
+* “brød nok for behovet” means enough bread to meet the need. It extends the miracle’s economy into mission support.
+* “vil dig” in “hvad Jesus vil dig” is stronger than “what Jesus wants from you” in a transactional sense. It means what Jesus wills concerning you / requires of you in this situation. “What Jesus would have you do” captures the force.
+* The final “Del ut” literally means distribute/share out. Its repetition from the feeding narrative is important because the disciples distributed the loaves; the reader must now distribute temporal and spiritual goods.
+
+Likely natural biblical equivalents
+
+* Mark 8:4: the central question about where bread may be obtained in the wilderness.
+* Mark 8:2: Jesus’ compassion on the multitude.
+* Mark 8:6: Jesus takes the seven loaves and gives thanks.
+* Mark 8:6–7: the disciples set the food before the people.
+* Mark 8:8: fragments are gathered.
+* Hebrews 13:8: “Jesus Christ is the same yesterday and today and forever.” This can be rendered in modern-pronoun English without KJV archaism.
+* The instruction to gather fragments “so that nothing may be wasted” more directly resembles John 6:12, though the surrounding text is Mark 8. The author appears to combine the feeding traditions didactically.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Thesis of the opening: the question “Where can anyone get bread?” contains profound human anxiety and has been asked by many in suffering.
+* First doctrinal response: in the Gospel account the question was voiced in the presence of Jesus, and with Jesus help was available.
+* Supporting demonstration: Jesus cared not only for spiritual need but for bodily distress, as seen at Cana and in his compassion upon physically needy crowds.
+* Christological grounding: Jesus remains what he was because Jesus Christ is the same yesterday, today, and forever.
+* Contemporary application: therefore, in the present serious time, when material provision becomes an urgent question, Christ still has both compassion and power.
+* Pastoral appeal: the anxious reader should carry troubled questions to Jesus and find help, peace, and rest.
+* Devotional expansion: the hymn expresses childlike confidence in the Father’s providential care over the whole of life.
+* Ethical pivot: trust in providence does not justify excess. If Jesus were bodily present, he would teach simplicity and contentment.
+* First practical lesson from the miracle: Jesus fed the people adequately but simply—with bread and fish, not unnecessary variety.
+* Second practical lesson: gather what remains so nothing is wasted; contemporary wastefulness therefore requires repentance and renewed frugality.
+* Third practical lesson: Jesus gave thanks; Christians should likewise pray at meals.
+* Rebuke: Scandinavian Christians who abandon table prayer under social pressure fail to resemble Christ despite bearing his name.
+* Direct exhortation: young and old should imitate Jesus by giving thanks for daily bread and asking the Lord’s blessing.
+* Fourth practical lesson: Christ wills that his people participate in feeding others, as the disciples distributed food to the multitude.
+* Spiritual intensification: this obligation concerns not only bodily food but especially the nourishment by which the soul lives.
+* Ethical vision: believers should keep their poor brother’s need before the soul so that compassion leads to sharing.
+* Hymnic reinforcement: life is short; much work remains; many await help; those who give are few; God blesses those who bless their brother.
+* Institutional application: the author applies the same feeding narrative specifically to the home mission and its financial distress.
+* Renewed biblical question: mission leaders ask “Where can anyone get bread?” but Christ replies, “How many loaves do you have?”
+* Expansion of responsibility: Christ’s question is addressed not merely to mission leadership but to every individual reader.
+* Answer: there is enough bread for the need if it is actually shared under Jesus’ blessing.
+* Scriptural model: Jesus gave the loaves to the disciples precisely so that they would set them before the people; possession was for distribution, not self-retention.
+* Concluding conscience appeal: the reader possesses abundant bodily provision and God’s saving Word and must distribute these to poor, needy, hungry brothers.
+* Final force: such giving is accompanied by blessing.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* Mark 8:1–9 is the governing passage: the feeding of the four thousand.
+* “Hvorfor kan nogen faa brød?” echoes Mark 8:4, where the disciples ask how the multitude can be supplied with bread in a wilderness.
+* “ynkedes inderlig” over the people echoes Mark 8:2: Jesus has compassion on the multitude because they have remained with him and have nothing to eat.
+* The broader reference to Jesus’ repeated compassion upon bodily need also recalls Matthew 14:14, Matthew 15:32, and parallel feeding/healing accounts.
+* The “first miracle” at a poor bridal couple’s embarrassment refers to John 2:1–11, the wedding at Cana. Calling it the removal of their “embarrassment” or predicament emphasizes Jesus’ compassionate response to ordinary material and social need.
+* “Jesus Kristus er igaar og idag den samme, ja til evig tid!” is Hebrews 13:8.
+* “daily bread” in the exhortation to thank God naturally echoes the Lord’s Prayer, especially Matthew 6:11 / Luke 11:3.
+* The rejection of anxious concern for the future in the hymn also resonates with Matthew 6:25–34, especially Christ’s teaching not to be anxious about food, drink, and tomorrow because the heavenly Father knows human needs.
+* “gather the remnants so that nothing is wasted” closely echoes John 6:12: after the feeding of the five thousand Jesus commands that the remaining fragments be gathered so that nothing be lost.
+* Jesus “took the seven loaves and gave thanks” is Mark 8:6.
+* Jesus giving food to the disciples “that they should set it before the people” is Mark 8:6.
+* The language of the soul being fed and living by spiritual food resonates more broadly with Deuteronomy 8:3 / Matthew 4:4: humanity does not live by bread alone but by every word from God.
+* “God’s saving word” also participates in the wider New Testament imagery of the Word as life-giving nourishment, including 1 Peter 2:2.
+* Following “in his footsteps” recalls 1 Peter 2:21, though the hymn uses the image in a broader discipleship sense.
+* “blesses his brother” recalls biblical patterns of blessing others and doing good to the brethren rather than a single unmistakable quotation.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* The opening anxiety must remain severe. “Anguished hearts” and “tear-filled or, still worse, tearless eyes” should retain the extremity of distress.
+* Christ’s compassion must be stated positively and firmly, not as sentimental reassurance.
+* The transition from consolation to ethical discipline must remain abrupt enough to be felt: Christ provides, but Christ also teaches simplicity, avoidance of waste, thanksgiving, and generosity.
+* The rebuke of abandoning grace at meals must retain its sting. The author treats shame before unbelieving or assimilated company as a failure of Christian discipleship.
+* “Why? Ah, because ‘the others’ do not do it…” should retain the author’s exposing, almost conversational interrogation of motive.
+* The mission appeal must not sound like neutral fundraising language. The author frames financial giving as obedience to Christ’s command to distribute what one has received.
+* The concluding direct address must implicate the reader: “You have bread … in abundance. Distribute it…”
+* The final sentence, “There is blessing in it,” should remain restrained. Its force comes from the preceding moral necessity, not rhetorical embellishment.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* “vil lære os” should be “would teach us” / “will teach us,” not “might encourage us.”
+* “Jesus Kristus vil at vi…” should be “Jesus Christ wills that we…” or “Jesus Christ would have us…” This expresses divine intention rather than preference.
+* “skal hjælpe Gud” must retain obligation: his children “are to help God feed others,” not merely “can help.”
+* “vi skal følge i hans spor” is “we are to follow in his footsteps” or “we shall follow,” depending on context. The hymn expresses expected duty.
+* “hvad Jesus vil dig” should preserve direct divine claim: “what Jesus would have you do.”
+* “De skulde ikke bare ha brødet for sig selv” means they were not to keep the bread merely for themselves; it conveys purpose and obligation.
+* “de skulde dele det ut” likewise must be “they were to distribute it.”
+* The repeated imperatives “Gaa,” “Sig,” “la os gjøre,” and “Del ut” should remain genuine commands/exhortations: “Go,” “Say,” “let us do,” “Distribute/share.”
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* Gud → God
+* Jesus / Jesus Kristus → Jesus / Jesus Christ
+* Frelseren → the Savior
+* Herren → the Lord
+* frelsende ord → saving Word
+* nød → distress / need, depending immediate context, while preserving material seriousness
+* trang → need / want
+* fortrøstning → confidence / trust
+* velsignelse → blessing
+* daglige brød → daily bread
+* kald → calling
+* stand → station
+* bror / søster → brother / sister
+* indremission → home mission
+* gjerning → work
+* sjæl → soul
+* legemlig → bodily / physical
+* hunger → hunger
+* mætte → satisfy / feed to fullness; where the physical feeding miracle is meant, “feed” or “satisfy” should remain concrete
+* dele ut → distribute / share out. Because distribution is a governing image, “distribute” should recur where natural.
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* Bread must remain bread. It functions first literally and later as a bridge into spiritual provision.
+* Hunger must likewise remain concrete before becoming spiritual.
+* “carry the picture of our poor brother’s need and distress in our soul” should remain an image, not be reduced to “remember the poor.”
+* “follow in his footsteps” should remain bodily/path imagery.
+* The mission treasury being “empty” and the debt “growing” should stay concrete.
+* Jesus’ blessing resting “over” the bread may be rendered “with Jesus’ blessing upon it,” retaining the image of blessing resting on what is given.
+* The disciples receiving bread in order to set it before the people becomes the controlling metaphor for Christian stewardship: what one possesses is placed into one’s hands for others.
+* Spiritual nourishment as “food by which the soul may be filled and live” should not be paraphrased into “religious instruction.”
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Opening: anxiety and distress.
+* Immediate countertone: compassion and confidence in Christ.
+* Hymn: quiet filial trust.
+* Following prose: sober austerity and ethical correction.
+* Table-prayer section: increasingly pointed rebuke and cultural criticism.
+* Transition to sharing: constructive exhortation.
+* Hymn: urgency because life is short, balanced by promise of divine blessing.
+* Home-mission section: institutional anxiety and financial pressure.
+* Final paragraphs: direct moral challenge, ending not in accusation alone but in the promise of blessing.
+* These contrasts should remain distinct rather than being harmonized into a uniformly comforting devotional tone.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Preserve sentence openings with “And” where they extend the spoken argument naturally.
+* Allow long sentences when the author accumulates evidence or consequences.
+* Preserve rhetorical questions as moments of oral pressure.
+* Maintain the repeated “And” / “But” / “Besides” transitions that sound like successive points in a sermon.
+* Preserve direct vocatives such as “my brother and sister.”
+* In the hymns, retain imperative repetition and compact parallel clauses.
+* In the table-prayer rebuke, preserve the oral cadence of: question → answer → social excuse → return home → shame.
+* The final movement should accelerate: Jesus asks → we must answer → Scripture explains the disciples’ task → the reader is directly addressed → command to distribute.
+
+STEP 11: ACADEMIC TRANSLATION
+
+“Where Can Anyone Get Bread?”
+
+Mark 8:1 ff.
+
+There is much anxiety contained in this question. Many are those who, with anguished hearts and tear-filled or, still worse, tearless eyes, have asked in this way. And many are still those who ask this anxious question. Those who formed the question in the biblical passage from which the heading of this little piece is taken addressed it to Jesus, the Savior. And we know that with him help was to be found.
+
+It is rather interesting to notice how Jesus regarded human bodily distress and need. His first miracle was to remove the embarrassment of a poor bridal couple. And we know that on several occasions he showed that he “was deeply moved with compassion” for the people because of their bodily distress. And as he was, so he still is. “Jesus Christ is the same yesterday and today, yes, forever!”
+
+It is good to remember this also in the serious time in which we live, and in which the question, “Where can anyone get bread?” becomes very pressing for many. He still has the heart that “is deeply moved with compassion” for those who suffer bodily hunger, or who in some other way are oppressed by sorrow and anxiety. And he still possesses the power that enables him to feed the hungry and to comfort the sorrowful and unhappy.
+
+Go, therefore, with the many anxious questions that stir within your soul to Jesus. With him help is to be found, peace and rest to be found. Say to God with childlike confidence:
+
+“Care, O dear Father, you!
+I will not be anxious,
+nor with a troubled mind
+ask about my future.
+Care for me throughout my time,
+care for me and mine!
+God, almighty, gracious, gentle,
+care for all who are yours!
+
+Care when I go to rest
+and my eye closes.
+Care when I rise again
+and hasten to my work!
+Care thus for my calling and station,
+hand and mouth and heart,
+for the work that I can do,
+for my joy and pain!”
+
+If Jesus had lived bodily among us, he would surely have wished to teach us the same thing that through his Word he will teach us: to live a simple and frugal life. He feeds the hungry crowds there in the wilderness, it is true. But he feeds them with bread and fish—and nothing more. Thus, not so many dishes, so many kinds of food as are now so commonly used, but which are in no way necessary in order to eat one’s fill. And he would teach us to “gather the remnants so that nothing is wasted.” In our time there is a boundless amount that “goes to waste,” and we greatly need to learn from Jesus to take care of what remains and to learn contentment with little.
+
+Besides this, he will teach us to “give thanks.” It is written that Jesus “took the seven loaves and gave thanks.” He therefore prayed at table. There are many who do not do this, including many of our Scandinavian people in this country. In this respect they do not resemble him whose name they nevertheless bear and wish to bear. More than once I have found myself deeply grieved that even such young people as have come from Christian homes, where prayer at table is regularly offered by both parents and children, as soon as they have been out among strangers, cease to do as Jesus did: “give thanks.”
+
+Why? Ah, because “the others” do not do it; the Americans do not do it; it is not refined enough. And when these same young people come home to father and mother, where prayer is still offered at the table, they are ashamed to fold their hands and join their praying parents in the table prayer. I would like to be permitted to say to young and old: let us do as Jesus did—give thanks for our daily bread and ask the Lord to bless it for us.
+
+Besides this, Jesus will teach us in this Word that he desires it, wills it, that his children, his people, are to help God feed others, just as the disciples helped Jesus give food to the people.
+
+This still applies. And it applies not only in the question of food for the body. It applies especially in the question of that food by which the soul may be filled and live.
+
+Jesus Christ wills that we should always carry the picture of our poor brother’s need and distress in our soul, so that we are driven to share with him:
+
+“Up, brothers, hasten—the life is short!
+Much should be done, but so little is done.
+Many are those who wait—those who give are but few;
+enough there is for the great, but so little for the small.
+Wipe the tear away, brothers, wipe tears away!
+Life is short from our cradle to grave.
+The Lord, he waits; we are to follow in his footsteps;
+God will bless everyone who blesses his brother!”
+
+And here I must then mention our home mission. Those who have been appointed to care for it often ask in deep anxiety: “Where can anyone get bread?” when our workers do not receive their support, when the mission treasury is empty, when the debt grows, and when little or nothing comes in by way of gifts for this work. The Mission Board also tries to take this anxious question to Jesus. But when he answers now as then, “How many loaves do you have?” he does not say this only to us who have been appointed to direct the work of our home mission, but he says it to all of you—and also to you, my brother and sister, who read this.
+
+And what shall we answer him? I know what we can answer him if only we are willing: We have enough bread for the need, provided it is distributed with Jesus’ blessing upon it, if only we are willing to distribute it to those who are in need.
+
+It is written that Jesus “gave them to his disciples so that they should set them before the people.” They were not merely to have the bread for themselves—they were to distribute it to the people.
+
+Yes, my brother and sister, do you understand what Jesus would have you do? You have bread—food and drink and God’s saving Word—in abundance. Distribute it to your poor, needy, hungry brothers! There is blessing in it.
+
+E. B.

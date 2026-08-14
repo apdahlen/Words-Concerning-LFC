@@ -1,0 +1,357 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards
+
+* “indremission” / “indre-mission”: Literally “inner mission,” but in Scandinavian Lutheran usage this denotes organized evangelistic and edifying work among one’s own nominally Christian population, as distinguished from “hedningemission,” mission among non-Christian peoples. “Home mission” is the natural historical English equivalent.
+* “hedningemission”: Literally “heathen mission.” In its nineteenth-century ecclesiastical setting, it means foreign mission among non-Christian peoples. “Foreign mission” avoids an unnecessarily jarring modern connotation while retaining the institutional contrast.
+* “liv i Gud”: “Life in God.” This is not merely “religious life” or “Christian experience.” It denotes spiritual life grounded in communion with God.
+* “salighet”: Can mean blessedness, salvation, or the state of being blessed. Here Jesus’ characterization of life in God points primarily to “blessedness,” while retaining eschatological and soteriological resonance.
+* “delagtiggjøre”: To cause others to share or participate in something. “Make others partakers of” would preserve the older theological register, but “bring others to share in” is somewhat more natural while retaining the meaning.
+* “en naturlig trang”: Not merely a “desire,” but an inward urge or compelling impulse.
+* “berettiget”: “Justified,” “warranted,” or “right.” Here “right and natural” best preserves the logic.
+* “vort eget folk”: “Our own people,” referring to the ethnic/ecclesial community among whom the Free Church ministers.
+* “fra Jerusalem av”: “Beginning from Jerusalem,” echoing Luke 24:47.
+* “komme i besiddelse av”: “Come into possession of,” deliberately juridical/possessive language in connection with the treasure.
+* “hensynsløst”: In modern Norwegian this can suggest recklessness or lack of consideration. Here it has the sense of unsparing self-expenditure, without regard to oneself.
+* “u-fortrøden” / “ufortrøden”: Tirelessly, steadfastly, without becoming weary or discouraged.
+* “gaa hans erinde”: An idiomatic expression meaning to go on someone’s errand or carry out his commission.
+* “sparte dig selv”: Literally “spared yourself”; here, held oneself back from labor or sacrifice.
+* “opbyggelse”: “Edification.” The quotation marks signal a potentially self-enclosed concern with one’s own spiritual nurture.
+* “sygne hen”: To languish, wither, decline, lose vitality.
+* “drivende nødvendighet”: A compelling or impelling necessity, something that drives a person into action.
+* “saa sandt”: A strong conditional/affirmative construction: “insofar as,” “as surely as,” or “if indeed.”
+* “Kristi kjærlighet tvinger”: Echo of 2 Corinthians 5:14. “The love of Christ constrains” is historically familiar, but the requested profile avoids inherited KJV gravity. “The love of Christ compels” preserves the force.
+* “villighet”: Willingness, readiness of heart.
+
+Syntactic Hazards
+
+* The article repeatedly builds its case through long causal sentences rather than short declarative units. These should not be fragmented.
+* The opening answer—“because it must”—depends on accumulating explanation before its full force becomes clear.
+* Several sentences employ balancing structures: earthly treasure versus spiritual treasure; labor versus self-sparing; individual believer versus congregation.
+* The rhetorical questions addressed directly to the reader must retain their accusatory and conscience-searching force.
+* “Og paa den anden side” marks a deliberate rhetorical reversal and must remain explicit.
+* The semantically central clause “fordi den maa” must retain the force of necessity, not become “because it feels called to.”
+* The final movement repeats the language of compulsion: “maa,” “drivende nødvendighet,” and “tvinger.” This accumulation must remain visible.
+
+Theological Hazards
+
+* “Life in God” must remain more than psychological well-being; it denotes spiritual life in fellowship with God.
+* The “treasure” imagery derives from Christ’s kingdom parables and must retain its soteriological significance.
+* Peace with God is not merely inward calm; it carries Pauline justification/reconciliation resonance.
+* “the peace which surpasses all understanding” is a direct biblical echo and must not be diluted.
+* A congregation that concerns itself only with its own edification is said to lose both strength and God’s blessing. The warning is theological, not merely organizational.
+* “we ourselves belong to the Lord” expresses belonging to Christ in faith and must not be weakened into religious affiliation.
+* “the love of Christ compels” names divine love as the motive force behind mission, not institutional obligation alone.
+
+Voice Hazards
+
+* The piece is pastoral and earnest rather than polemical.
+* The author moves from explanation to personal interrogation. This change must remain sharp.
+* The repeated “perhaps” does not soften the argument into uncertainty; it invites experiential recognition.
+* The phrase “because we must” carries spiritual inevitability, not bureaucratic duty.
+* The conclusion is prayerful, but the prayer follows a rigorous argument and should not become sentimental.
+* The author’s simplicity is deliberate. Over-elevated theological English would distort his direct, devotional voice.
+
+STEP 2: IDIOM ANALYSIS
+
+* “drive indremission”
+
+  * Meaning: to carry on organized evangelical and spiritual work among one’s own population.
+  * Best rendering: “carry on home mission work” or, where repetition permits, “engage in home mission.”
+  * A literal “drive inner mission” would be unidiomatic in English.
+
+* “liv i Gud”
+
+  * Meaning: spiritual life in communion with God.
+  * The phrase should remain “life in God,” because explanatory paraphrases such as “a living faith” would narrow the original.
+
+* “vort livs hemmelige glædeskilde”
+
+  * Literally, “the secret source of joy of our life.”
+  * This describes an inward, hidden spring or source from which joy proceeds.
+  * “The hidden source of our life’s joy” retains both inwardness and metaphor.
+
+* “fra Jerusalem av”
+
+  * Biblical allusion to the command that repentance and forgiveness should be proclaimed “beginning from Jerusalem” in Luke 24:47.
+  * The point is missiological: mission begins among those nearest at hand.
+
+* “en skat ... alt bør sælges”
+
+  * Echoes Matthew 13:44, the treasure hidden in a field, for which a man sells all that he has.
+  * “Everything ought to be sold” should retain the normative force of “bør.”
+
+* “jo mere vi gir ut av den ... desto mere har vi igjen”
+
+  * A spiritual paradox: giving the treasure away does not diminish it but deepens the giver’s own participation in it.
+  * The metaphor should remain material and quantitative rather than be explained abstractly.
+
+* “gaa hans erinde”
+
+  * Literally, to go someone’s errand.
+  * The spiritual force is obedience to Christ’s commission.
+  * “Go on his errand” preserves the older concrete idiom and fits the sermonic context.
+
+* “den fred som overgaar al forstand”
+
+  * Philippians 4:7.
+  * A natural English biblical equivalent is “the peace which surpasses all understanding.”
+  * This preserves biblical recognition without importing archaic pronouns.
+
+* “sparte dig selv”
+
+  * Means withholding oneself from exertion or sacrifice.
+  * “Spared yourself” preserves the morally charged metaphor.
+
+* “sygne hen”
+
+  * Figurative image of an organism wasting away.
+  * “Languish” preserves the living-organism metaphor.
+
+* “Kristi kjærlighet tvinger”
+
+  * 2 Corinthians 5:14.
+  * The Greek and traditional Lutheran theological context indicate constraining or compelling force.
+  * “The love of Christ compels” is preferable to “motivates,” which would be too weak.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Opening question:
+
+  * Why does the Lutheran Free Church attempt to carry on home mission work?
+
+* Initial qualification:
+
+  * Several answers are possible because the question can be viewed from several sides.
+
+* Primary thesis:
+
+  * The most immediate answer is that the Lutheran Free Church carries on home mission, as well as foreign mission, because it must.
+
+* Ground of necessity:
+
+  * When Christianity—or more properly, life in God—ceases to be a burdensome load and becomes happiness and an inward source of joy, the believer and congregation naturally desire to make others share in that life.
+
+* First application:
+
+  * It is right and natural to think first of one’s own people.
+  * Biblical warrant: the first Christian missionaries were commanded to begin from Jerusalem.
+
+* Expansion through Christ’s treasure imagery:
+
+  * Jesus describes life in God as blessedness and as a treasure worth surrendering everything to obtain.
+
+* Contrast with earthly treasure:
+
+  * Earthly treasure is hoarded.
+  * Spiritual treasure is abundant enough for all.
+
+* Spiritual paradox:
+
+  * The more this treasure is given to others, the more richly the giver possesses it.
+  * Missionary labor deepens peace, joy, and life in God.
+
+* Appeal to the reader’s experience:
+
+  * The reader may already know this experimentally.
+
+* First rhetorical interrogation:
+
+  * When you labored most earnestly and tirelessly in the Master’s service, did you not know something of the peace surpassing understanding?
+
+* Counter-interrogation:
+
+  * When you spared yourself, refused service, and neglected opportunities, did not unrest and loss of peace follow?
+
+* Corporate application:
+
+  * What is true of the individual believer is also true of the congregation.
+  * A congregation concerned only with itself and its own “edification” will languish and lose strength and God’s blessing.
+
+* Restatement of thesis:
+
+  * Those for whom life in God has become a blessed reality will answer: we carry on home mission because we must.
+
+* Intensification:
+
+  * The work has become an impelling necessity insofar as believers have reason to trust that they belong to the Lord.
+
+* Pauline doctrinal climax:
+
+  * “The love of Christ compels.”
+
+* Closing prayer and consequence:
+
+  * May God give much of this compelling love.
+  * Then home mission will be done with joy and willingness.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* “beginning from Jerusalem”
+
+  * Luke 24:47: the proclamation of repentance and forgiveness of sins to all nations, beginning from Jerusalem.
+  * Possible secondary resonance: Acts 1:8, with witness proceeding from Jerusalem outward.
+
+* “life in God ... the greatest happiness, indeed blessedness”
+
+  * Broadly echoes Jesus’ kingdom teaching and Beatitude language.
+
+* “a treasure ... worth so much that everything ought to be sold”
+
+  * Matthew 13:44: the treasure hidden in the field.
+  * There may also be a secondary echo of Matthew 13:45–46, the pearl of great price.
+
+* “peace with God”
+
+  * Romans 5:1 is the clearest doctrinal echo: peace with God through Jesus Christ.
+
+* “the peace which surpasses all understanding”
+
+  * Philippians 4:7.
+
+* “the Master’s service”
+
+  * General Gospel and Pauline servant/master imagery.
+
+* “belong to the Lord”
+
+  * Broad Pauline resonance, including Romans 14:8: whether we live or die, we are the Lord’s.
+
+* “The love of Christ compels”
+
+  * 2 Corinthians 5:14.
+  * This is the decisive biblical citation at the climax of the article.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* “because it must” must remain categorical. “Because it feels a responsibility” would weaken the entire argument.
+* The spiritual experience described is not optional enthusiasm but something that necessarily presses outward into service.
+* The direct address to the reader must remain morally searching: past zeal is associated with peace; self-sparing and neglected opportunity with inward unrest.
+* The warning to the self-centered congregation must remain severe: it will languish and lose both strength and God’s blessing.
+* The final invocation of Christ’s compelling love must retain its sense of inward constraint.
+* The article’s heat arises from consequence: where life in God is real, mission follows; where mission is neglected through self-concern, spiritual decline follows.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* “fordi den maa”
+
+  * Must be “because it must,” not “because it should” or “because it wants to.”
+
+* “alt bør sælges”
+
+  * “Everything ought to be sold” preserves obligation.
+  * “Everything can be sold” would alter the meaning.
+
+* “vil vi helst beholde”
+
+  * Retains habitual inclination: “we would rather keep [them] for ourselves.”
+
+* “vil sygne hen”
+
+  * Predictive and consequential: “will languish,” not “may languish.”
+
+* “vil svare”
+
+  * “Will answer,” preserving the author’s confidence about those for whom life in God is reality.
+
+* “saa sandt ...”
+
+  * Must preserve the conditional-certifying force: “insofar as we are at times permitted to believe that we ourselves belong to the Lord,” or “if indeed...”
+  * It should not be reduced to a vague temporal phrase.
+
+* “tvinger”
+
+  * “Compels,” not “encourages,” “inspires,” or “moves.”
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* kristendom → Christianity
+* liv i Gud → life in God
+* salighet → blessedness
+* skat → treasure
+* fred med Gud → peace with God
+* troende → believer
+* menighet → congregation
+* opbyggelse → edification
+* velsignelsen fra Gud → the blessing of God
+* Herren → the Lord
+* Kristi kjærlighet → the love of Christ
+* indremission → home mission
+* hedningemission → foreign mission
+* gjerning → work
+* glæde → joy
+* villighet → willingness
+
+These equivalents should remain stable unless normal English syntax requires slight variation.
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* Christianity as a “heavy burden” painfully dragged along must remain a physical burden image.
+* Life in God as the “hidden source of our life’s joy” must retain the source/spring imagery rather than become “what makes us happy.”
+* Life in God as “treasure” must remain treasure throughout the passage.
+* Giving out of the treasure and having more left oneself must retain its deliberate paradox.
+* A congregation “languishing” must remain an organism losing vitality.
+* Christ’s love “compels” must preserve the pressure or constraining-force metaphor.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Opening: reflective and explanatory.
+* First thesis: firm and compressed—“because it must.”
+* Description of life in God: warm and affirmative.
+* Treasure imagery: expansive and joyful.
+* Personal interrogation: increasingly searching and severe.
+* Warning concerning the congregation: sober and categorical.
+* Return to thesis: assured and confessional.
+* Pauline climax: doctrinally concentrated.
+* Closing prayer: hopeful and pastoral.
+
+The translation should preserve these shifts rather than maintain a uniform devotional warmth.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* The longer sentences should retain cumulative movement, especially where successive subordinate clauses build toward the conclusion.
+* Repetitions such as “all, all” should be retained because they carry oral emphasis.
+* The sequence “our peace with God ... our joy ... our life in him” should retain its three-part rhythm.
+* The reader-address questions should remain extended enough to sound like spoken examination of conscience.
+* “And on the other hand” should remain a clearly audible pivot.
+* The final repetition of “compels” should remain visible and audible, because it binds the conclusion to Paul’s language.
+
+STEP 11: ACADEMIC TRANSLATION
+
+From the Free Church’s Home Mission Field
+
+(This department, “From the Free Church’s Home Mission Field,” is edited by Pastor E. Berlie, Dalton, Minn., and material desired for publication in it should be sent to him.)
+
+Why Does the Lutheran Free Church Attempt to Carry On Home Mission Work?
+
+E. B.
+
+To this question there can no doubt be various answers, since the question may be viewed and judged from several sides.
+
+The first answer, and the one which seems to me the most immediate, is this: The Lutheran Free Church attempts to carry on home mission work—as well as foreign mission—because it must.
+
+When that which we call Christianity, or perhaps more properly life in God, has become—not a heavy burden which we laboriously drag along with us—but our happiness, the hidden source of our life’s joy, then it is, both for the individual and for the congregation, a natural inward need to labor that others also may be brought to share in this life and this happiness.
+
+It is also both right and natural that in this work we should think first and foremost of our own people. The first Christian missionaries were commanded to begin at home, “beginning from Jerusalem.”
+
+Life in God Jesus himself has described as the greatest happiness, indeed as blessedness. And he has compared it to a treasure which is worth so much that everything ought to be sold in order that one may come into possession of it.
+
+And this treasure is unlike earthly treasures. These—if we obtain any of them—we would rather keep for ourselves. But not this treasure. It is sufficient, it is great enough not merely for some of us, but for all, all.
+
+And it has this peculiar quality, that the more we give out of it to others, the more we ourselves have remaining. Never is our peace with God deeper, our joy, our life in him richer than when, perhaps without sparing ourselves, we labor to help our brothers and sisters find the “treasure” and come to possess it.
+
+Perhaps one or another of you who read these words has experienced that it is so.
+
+Or was it not so, that on the days when you most earnestly and tirelessly used your strength in your Master’s service, resolved to go on his errand, then you knew in your heart something of that peace which surpasses all understanding, and which Jesus promises to his own?
+
+And on the other hand, when you “spared yourself,” were unwilling to do anything for the Lord, and neglected your opportunities, did you not then experience that the heart became troubled and the soul without peace?
+
+And as it is with the individual believer, so also with the congregation. The congregation which concerns itself only with itself and its own “edification” will languish and lose its strength and the blessing of God.
+
+To the question why we attempt to carry on home mission work, I believe that most of those for whom life in God has become a blessed reality will answer: We carry on home mission because we must.
+
+This work has become an impelling necessity for us, insofar as we are from time to time permitted to believe that we ourselves belong to the Lord.
+
+Paul speaks of how “the love of Christ compels.”
+
+God grant us much of this love which “compels.” Then also the work which we call our home mission will be done with joy and willingness.

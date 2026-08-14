@@ -1,0 +1,290 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards
+
+* “indremissionsmark” — Literally “home-mission field.” In the historical Norwegian-American Lutheran context, “indremission” refers to organized evangelistic and edifying work among people within an already nominally Christian population, as distinct from “hedningemission” among non-Christian peoples. “Home mission” is preferable to “inner mission” in continuous English prose, though the latter is historically possible.
+* “husbond” — Older term for the master or head of a household. In the vineyard parable, “householder” or “master of a house” is possible. “Householder” retains the biblical and historical character without introducing feudal overtones.
+* “virksomhet” — Here more than mere “activity”; it denotes active labor, purposeful work, operation.
+* “mat” — In Jesus’ saying, “food,” with reference to John 4:34. Rendering it simply as “food” preserves the metaphor.
+* “hvile” — “Rest,” but the author sharply distinguishes evangelical rest of conscience from ease, comfort, or inactivity.
+* “salig glæde” — “Blessed joy” rather than merely “happy joy.” “Salig” carries devotional and eschatological resonance.
+* “lad kristen” — “Lazy Christian.” The phrase is deliberately blunt and morally accusatory.
+* “synd og naade” — “Sin and grace,” a compact Lutheran doctrinal pair.
+* “død rettroenhet” — “Dead orthodoxy,” meaning doctrinal correctness without living faith and spiritual fruit.
+* “ren lære” — “Pure doctrine,” a standard Lutheran expression, here criticized only when it is detached from life.
+* “vækkelsen” — “The awakening” or “revival.” In this context, “awakening” better preserves Scandinavian pietistic usage.
+* “taaveir” — Literally “thawing weather.” Used metaphorically for a spiritual awakening that passed over the people and congregations. The meteorological image should be preserved.
+* “livssyn” — Here “view of life” or “religious outlook”; in relation to Georg Sverdrup, “religious outlook” is more natural.
+* “menighetsopfatning” — “Conception of the congregation/church.” Because Sverdrup’s ecclesiology is in view, “understanding of the congregation” preserves the Free Church emphasis.
+* “levendegjørelse” — “Quickening” or “making alive.” “Quickening” is doctrinally apt but risks inherited English Bible diction. “Bringing to life” weakens the theological compactness. “Spiritual quickening” may therefore be useful where clarity requires it.
+* “frigjørelse” — “Liberation” or “setting free,” referring to the congregation’s release into spiritually living and responsible action.
+* “kjærlighet og gode gjerninger” — “Love and good works,” an echo of Hebrews 10:24.
+* “fald … til arbeide” — The printed “fald” is semantically difficult. The intended sense appears to be that the proper direction or lot of believers and congregations is toward work, not self-chosen rest. The phrase must not be mechanically rendered in a way that becomes unintelligible.
+* “selvtaagen hvile” — “Self-chosen” or “self-assumed rest.” It indicates a rest believers take for themselves without divine warrant.
+* “opgjørsdag” — “Day of reckoning,” here the final judgment.
+* “fællesgjøremaal” — “Common undertakings” or “common causes.”
+* “raade i vort hjerte” — “Rule in our heart,” a devotional expression of divine governance.
+* “tækkes” — “Please,” in the sense of being pleasing to Christ.
+* “indre drift” — “Inner impulse” or “inward constraint.” “Impulse” can sound psychologically weak; “inward prompting” or “inward constraint” better preserves spiritual force.
+* “tjenestegjerning” — “Work of ministry” or “service.” The term likely echoes Ephesians 4:12 and should retain ecclesial force.
+* “fuldkommengjort” — “Perfected,” “equipped,” or “made complete.” In the biblical echo from Ephesians 4, “equipped” is conceptually natural, though the author’s wording is more literally “perfected.”
+* “lyset paa staken” — “The light on the lampstand,” not merely “a light in a prominent place.”
+* “staden paa berget” — “The city on the hill/mountain,” echoing Matthew 5.
+* “smaapilleri” — Dismissive and ironic: “petty business,” “little tinkering,” “small-fry work.” The contempt attributed to those neglecting home mission must remain audible.
+
+Syntactic Hazards
+
+* The prose frequently develops through long accumulative sentences joined by “og,” “men,” “derfor,” and semicolon-like rhetorical pivots.
+* Several paragraphs move by antithesis: rest versus inactivity; sin and grace versus works; foreign mission versus home mission.
+* Rhetorical questions function as argumentative transitions and should not be flattened into declarative prose.
+* Scriptural quotations are embedded directly into the author’s reasoning and should remain structurally integrated.
+* The author often begins with concession—“It is true…” / “Even though…”—and then sharply limits or redirects the concession.
+* The repeated “men” and “og” carry logical pressure. Excessive stylistic smoothing would weaken the sermon-like accumulation.
+* Some sentences contain historically awkward or possibly typographically corrupt readings, especially “Vort fald … er et fald til arbeide.” Such places require semantic judgment without silently rewriting the argument.
+
+Theological Hazards
+
+* The distinction between evangelical “rest” and inactivity is central. Rest is specifically rest from the heart’s and conscience’s unrest caused by sin.
+* “Abba, Father” expresses filial confidence grounded in grace, not generalized emotional comfort.
+* “Sin and grace” is not rejected; the author argues that proclamation becomes deficient when it stops there and fails to press toward works.
+* “Works” must not be rendered in a way that suggests meritorious justification. The context is the activity and fruit of those who have received grace.
+* “Dead orthodoxy” and “pure doctrine” must retain their intra-Lutheran polemical meaning: doctrine without life is criticized, not doctrine itself.
+* The claim that the Lord alone gives congregational quickening and liberation protects the argument from voluntarism.
+* Matthew 25 is invoked to emphasize judgment according to deeds done or neglected. The force should remain intact without resolving broader Lutheran doctrinal tensions for the reader.
+* Mission is treated as the work of saving souls and building up God’s congregation; both dimensions should remain explicit.
+* Philippians 2:13 grounds willing and doing in God’s action, preventing the appeal to service from becoming merely moralistic.
+* Philippians 1:21 (“for me to live is Christ”) marks a Christocentric culmination.
+* Ephesians 4 imagery connects divine gifts with the congregation’s equipment for ministry.
+* Matthew 5 imagery defines the congregation’s vocation toward the world.
+* “Call” is vocational and divine, not merely personal preference.
+
+Voice Hazards
+
+* The author is earnest, pastoral, corrective, and at points deliberately severe.
+* “Jesus himself was no lazy Christian” is intentionally startling and should not be sanitized.
+* The criticism of Free Church preaching is self-critical rather than hostile; the translation should preserve that distinction.
+* The tone alternates between doctrinal explanation and direct accusation of complacency.
+* The conclusion attacks the tendency to treat home mission as somebody else’s minor concern. Its irony and moral pressure must remain sharp.
+* The author repeatedly implicates “we,” including himself and his readership. Replacing this with detached institutional language would distort the voice.
+
+STEP 2: IDIOM ANALYSIS
+
+* “Himlenes rike er likt en husbond…” — Directly evokes Jesus’ vineyard parable in Matthew 20:1. The point is not merely the kingdom as a place but the kingdom as a sphere of summoned labor.
+* “min mat at gjøre Faderens vilje” — Echo of John 4:34: Jesus’ nourishment is to do the will of the One who sent him. The metaphor expresses delight, necessity, and sustaining purpose.
+* “hvile fra hjertets og samvittighetens uro” — Pietistic-Lutheran language for peace of conscience following forgiveness of sin.
+* “Abba, fader” — Pauline language, especially Romans 8:15 and Galatians 4:6. It signifies filial adoption and confidence before God.
+* “Han gik omkring og gjorde vel” — Echo of Acts 10:38: Jesus “went about doing good.”
+* “Gaa ut i al verden…” — Mark 16:15. It functions as the final missionary command in the author’s argument.
+* “synd og naade” — A conventional Lutheran shorthand for proclamation that exposes sin and announces grace.
+* “død rettroenhet” — Pietistic criticism of orthodoxy that remains intellectual and produces no living faith or fruit.
+* “ren lære uten at spørge efter liv” — “Pure doctrine without asking about life.” “Life” here means actual spiritual vitality and lived faith, not mere conduct in the secular sense.
+* “gik som et taaveir over vort folk” — A thaw metaphor: spiritual coldness yields under the warmth of awakening. A purely abstract translation such as “spread through our people” would lose the image.
+* “Søk Herren” — “Seek the Lord,” a biblical devotional imperative and apparently also the title of a programmatic exposition.
+* “opmuntre hverandre til kjærlighet og gode gjerninger” — Hebrews 10:24. “Stir up/provoke one another to love and good works” would be more explicitly biblical, but because the source verb is “encourage,” “encourage one another to love and good works” is semantically closer.
+* “sidste store opgjørsdag” — “The last great day of reckoning,” an idiomatic description of the Last Judgment.
+* “sjæles frelse” — “Salvation of souls,” a standard evangelical-pietistic expression.
+* “virker i os baade det at ville og at gjøre” — Philippians 2:13: God works both willing and doing.
+* “for mig er livet Kristus” — Philippians 1:21. The modern-pronoun constraint is irrelevant here, but the compact biblical syntax should be retained.
+* “Kristi legeme” — Pauline ecclesial image: the congregation as the body of Christ.
+* “lyset paa staken og staden paa berget” — Composite echo of Matthew 5:14–16.
+* “det ene bør gjøres og det andet ikke forsømmes” — Echo of Matthew 23:23: “These you ought to have done, without neglecting the others.” It gives the conclusion a distinctly scriptural rebuke.
+
+Where a literal rendering would obscure force:
+
+* “taaveir” should remain a thaw image, not be reduced to “revival.”
+* “fald til arbeide” cannot safely be rendered word-for-word without creating nonsense. The clause must preserve the contrast: the believer’s or congregation’s proper course is into work, not self-appointed inactivity.
+* “smaapilleri” requires a contemptuous English expression such as “petty business” or “little tinkering”; “small work” is too neutral.
+* “faa bare han raade” means “if only he is allowed to rule,” not merely “if he can influence us.”
+* “langt utover vor livsdag” depicts life as a day already far advanced; the image should be retained.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Opening thesis: Jesus repeatedly represents the kingdom of heaven as work and activity.
+* Christological support: Jesus’ own earthly life was characterized by continual labor, and doing the Father’s will was his “food.”
+* Clarification concerning grace: Jesus promises rest, but not an existence of comfort and inactivity.
+* Definition of true rest: the rest is release from the heart’s and conscience’s unrest caused by sin, issuing in filial trust and joy.
+* Consequence of grace: Christ gives rest so that believers may receive strength, will, desire, and inward urge to work for him.
+* Exemplum and command: Jesus himself “went about doing good,” and his parting command was missionary.
+* Self-criticism of Free Church preaching: preaching among them has concentrated heavily on “sin and grace.”
+* Concession: such preaching is right, proper, and necessary.
+* Corrective claim: nevertheless, it has a deficiency, because Jesus also—and according to the author, predominantly—spoke about works.
+* Historical explanation: this preaching emphasis arose from reaction against dead orthodoxy, from revival experience, and from the Free Church’s position among Norwegian Lutherans in America.
+* Ecclesiological explanation: the Free Church program has been congregational quickening and liberation, both of which only the Lord can give.
+* Qualification: even a justified and necessary preaching tradition may contain deficiencies.
+* Main pastoral correction: the Free Church may have put too little emphasis on encouraging one another to love and good works.
+* Restated principle: the calling of believers and congregations is into work, not self-chosen inactivity.
+* Eschatological support: in Jesus’ depiction of the final judgment, deeds done or neglected are decisive.
+* Application to mission: the work especially in view is direct Christian work for the salvation of souls and the building up of God’s congregation.
+* Objection: not everyone can become a missionary.
+* Response: true, but everyone can participate.
+* Practical demonstration: congregations and associations provide many forms of participation and giving.
+* Moral application: nobody can reasonably plead lack of opportunity; the real question is willingness.
+* Theological grounding: God works both willing and doing in believers.
+* Christocentric culmination: if Christ rules the heart, concern for home and foreign mission grows, especially as life advances toward its end.
+* Pauline ideal: “For me to live is Christ.”
+* Pneumatological grounding: the inner impulse toward work is the work of God’s Spirit.
+* Ecclesiological result: through gifted service the body of Christ advances toward its appointed form and becomes a means of salvation in the world.
+* Final diagnostic question: can this goal be reached?
+* Answer: yes, but only when genuine congregational members understand their calling as work and service and are willing to obey.
+* Final rebuke: home mission will remain unresolved so long as congregations and individuals shift responsibility away from themselves and treat foreign mission and theological education as sufficient.
+* Scriptural closing force: one duty must be done without neglecting the other.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* Matthew 20:1 — “The kingdom of heaven is like a householder who went out… to hire laborers into his vineyard.”
+* John 4:34 — Jesus’ food is to do the Father’s will.
+* Matthew 11:28–29 — Jesus promises rest to those who come to him.
+* Romans 8:15 / Galatians 4:6 — “Abba, Father.”
+* Acts 10:38 — Jesus “went about doing good.”
+* Mark 16:15 — “Go into all the world and preach the gospel to all creation.”
+* Hebrews 10:24 — encouraging/stirring one another to love and good works.
+* Matthew 25:31–46 — the final judgment and the deeds done or neglected.
+* Philippians 2:13 — God works in believers both to will and to do.
+* Philippians 1:21 — “For me to live is Christ.”
+* Ephesians 4:11–13, especially 4:12 — gifts given for equipping/perfecting the saints for the work of ministry and the building up of Christ’s body.
+* 1 Corinthians 12 / Ephesians 4 — the congregation as the body of Christ.
+* Matthew 5:14–16 — city on a hill and light on a lampstand.
+* Matthew 23:23 — “These you ought to have done, without neglecting the others.”
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* The translation must retain the repeated insistence that Christian rest does not mean inactivity.
+* “Jesus himself was no lazy Christian” should remain direct and uncomfortable.
+* The author’s assertion that Jesus spoke “much—no, most—about works” should retain its provocative form rather than be softened into a cautious academic claim.
+* The criticism directed toward Free Church preaching should remain an internal admonition, not be reframed as detached historical commentary.
+* “None of us therefore needs to excuse himself” must retain its moral accusation.
+* The distinction between opportunity and will must remain pointed: opportunity is present; willingness is the question.
+* The closing rebuke against treating home mission as “petty business” must retain its sarcasm.
+* The final biblical imperative must land with full ethical force: one Christian obligation cannot be used to excuse neglect of another.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* “vil vi bli var” — “we shall/will become aware,” not merely “we may notice.”
+* “kan vi ikke undgaa” — “we cannot avoid becoming aware.”
+* “betyr aldrig” — “never means.”
+* “skal faa styrke…” — purpose and intended result: “that through it we may receive strength…”
+* “kan alene Herren give” — “the Lord alone can give.”
+* “trænges derfor” — “therefore it is necessary,” not merely “it would be helpful.”
+* “skal avgjøre” — “shall determine” or “will determine.”
+* “kan ikke alle være med” — objection states impossibility: “not everyone can take part [in that way].”
+* “Alle kan desuagtet være med” — emphatic universal possibility: “Nevertheless, everyone can take part.”
+* “behøver … at undskylde os” — “need not excuse ourselves.”
+* “vil vi bli varmere og ivrigere” — expected consequence, not optional aspiration.
+* “skal bli fuldkommengjort” — divine purpose: gifts are given so that believers may be fitted/equipped for ministry.
+* “Kan dette maal naaes? Ja, men ikke før…” — genuine condition: the goal cannot be reached until the calling to work is recognized and obeyed.
+* “blir aldrig løst” — “will never be solved,” not “is unlikely to be solved.”
+* “bør gjøres” — “ought to be done.”
+* “ikke forsømmes” — “must not be neglected” or, closer to the biblical echo, “the other not neglected.” The normative force must remain.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* Guds rike / himlenes rike → kingdom of God / kingdom of heaven
+* synd → sin
+* naade → grace
+* hvile → rest
+* samvittighet → conscience
+* vækkelse → awakening
+* levendegjørelse → quickening / spiritual quickening
+* frigjørelse → liberation
+* gjerninger → works
+* gode gjerninger → good works
+* frelse → salvation
+* sjæles frelse → salvation of souls
+* menighet → congregation
+* opbyggelse → building up
+* kald → call / calling
+* tjeneste → service
+* tjenestegjerning → work of ministry / ministry
+* Guds aand → Spirit of God
+* Kristi legeme → body of Christ
+* indremission → home mission
+* hedningemission → foreign mission / mission to the heathen
+
+For this historical text, “foreign mission” is generally preferable in running English to the now potentially distracting phrase “heathen mission,” though the source’s historical theological distinction should remain clear.
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* The kingdom as vineyard labor must remain an organizing image.
+* Doing the Father’s will as Christ’s “food” must remain metaphorical.
+* Rest must remain a spiritual condition contrasted with indolence.
+* The awakening “like thawing weather” over the people must remain visibly meteorological.
+* The human lifetime as a “day” already far advanced should remain intact.
+* Christ’s congregation as his “body” must remain literal biblical imagery, not be explained away.
+* The congregation as light upon the lampstand and city upon the hill must remain intact.
+* Home mission as despised “petty business” must remain rhetorically contemptuous because it exposes the attitude being criticized.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Consolation: Jesus gives rest from the unrest of heart and conscience.
+* Immediate turn: this rest is not comfort for inactivity but strength for service.
+* Severity: Jesus was no lazy Christian.
+* Concession: preaching of sin and grace is right, proper, and necessary.
+* Correction: nevertheless it may be deficient.
+* Institutional sympathy: historical circumstances made the emphasis understandable.
+* Renewed admonition: love and good works have received too little emphasis.
+* Eschatological severity: the Last Judgment exposes the weight of what was done and neglected.
+* Encouragement: everyone can participate, even if not everyone can go as a missionary.
+* Reproof: lack of opportunity is not a valid excuse.
+* Hope: God himself works willingness and action.
+* Aging and urgency: many readers are already far advanced in the day of life.
+* Christ-centered devotion: life becomes Christ, and service becomes joy.
+* Final institutional rebuke: foreign mission and ministerial education cannot justify neglect of home mission.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Long accumulative sentences should generally remain long where the argument builds through repeated conjunctions.
+* Short emphatic sentences—“No.” “Yes, that is true.” “Nevertheless, everyone can take part.”—should remain short because they reproduce spoken rebuttal.
+* Repetition of “rest,” “work,” “sin and grace,” and “mission” should not be stylistically varied away.
+* Direct address—“Look, and you will be convinced”—should remain.
+* The sequence of concession, correction, and renewed appeal should be preserved as sermonic pacing.
+* Biblical phrases should emerge naturally within the prose rather than being typographically or stylistically over-elevated.
+* Semicolon pivots should be retained where one clause tightens the force of the preceding one.
+
+STEP 11: ACADEMIC TRANSLATION
+
+Page 320
+
+From the Free Church’s Home-Mission Field
+
+(This department, “From the Free Church’s Home-Mission Field,” is edited by Pastor E. Berlie, Dalton, Minn., and whatever is desired for insertion in it should be sent to him.)
+
+“The kingdom of heaven is like a householder who went out to hire laborers for his vineyard.”
+(S. M.)
+
+If we attentively try to study the parables or images which Jesus uses in order to present the kingdom of heaven, the kingdom of God, we shall become aware that he very often uses such parables in which this kingdom is presented as work, as activity. And when we look upon his own life here on earth, we cannot avoid becoming aware that he was continually at work, and he was so glad in his work that he even calls it his “food to do the Father’s will.”
+
+It is true that he promises rest to those who come to him, but this never means, as many seem to think, an existence consisting in feeling good, having things easy, and being inactive. No, the rest he promises his own is rest from the unrest of heart and conscience on account of sin. It is the rest which consists in being able, with childlike confidence and blessed joy, to cry: Abba, Father. That rest Jesus gives. But he gives it in order that through it we may receive strength, will, desire, and an inward urge to do something for him.
+
+Jesus himself was no lazy Christian. “He went about doing good,” and the last word he spoke to those who had attached themselves to him was this: “Go into all the world and preach the gospel to all creation.”
+
+In the preaching of God’s word which has now sounded among us for nearly a generation, most has been said about “sin and grace.” And however right and proper and necessary such preaching is, there is nevertheless a deficiency in it. This we can see so clearly from Jesus’ preaching. He too spoke about sin and grace, but he also spoke much—no, most—about works. Look for yourself, and you will be convinced. The reason that our preaching has dwelt almost exclusively upon this great theme, “sin and grace,” is closely grounded in two things. On the one hand, there is the distance we have taken from, and the fear we have acquired of, “dead orthodoxy,” “pure doctrine” without asking after life; and on the other hand, the awakening, partly that by which many of us were more or less seized when we came from Norway, and partly that which passed like a thaw over our people and our congregations some thirteen to twenty years ago. And perhaps also—and not least—the position into which we have come among the Norwegian Lutheran church people here in this country.
+
+Our program has indeed been, and is: the quickening and liberation of the congregations. And quickening and liberation the Lord alone can give to the individual and to his congregation. Therefore it is so natural that the preaching among us has sounded approximately as it is set forth in the programmatic explanation “Seek the Lord,” which by some has been so mercilessly criticized.
+
+For my own part, I have reservations about passing judgment as to whether the criticism mentioned was justified, but I am inclined to hold the opinion that the criticism in question was, at least in part, badly applied. But even if we are clear that the kind of preaching here mentioned is both justified and necessary, and that it is moreover, so to speak, a matter of course among us who have all been more or less influenced by the religious outlook and understanding of the congregation held by the late Prof. Georg Sverdrup, this does not exclude the possibility that there may be one or more deficiencies in it. And I am inclined to believe that perhaps in our preaching in the Free Church we have laid too little weight upon encouraging one another to “love and good works.” It is therefore necessary that we return to this matter again and again, lest we forget it.
+
+Our course as believing individuals and congregations is a course into work—not into self-chosen rest in inactivity.
+
+And that Jesus attaches the greatest importance to this matter we see clearly from his portrayal of the last great day of reckoning, when the King shall determine who shall enter the kingdom and who shall be sent away. Then it is precisely what has been neglected or what has been done that has significance and is decisive.
+
+The work particularly in view here is the more directly Christian work, the work for the salvation of souls and the building up of God’s congregation. And with these expressions our thoughts are at once directed toward what is called mission, foreign mission and home or inner mission.
+
+Some will certainly object that not everyone can take part in that work, that not everyone can go out as missionaries abroad or at home. Yes, that is true. Not everyone can go out, and by no means has everyone received a call to do so. But nevertheless everyone can take part.
+
+In nearly every place among our congregations, work for mission is carried on partly by the congregation as such, and partly by societies within it: mission societies, women’s societies, young people’s societies, children’s societies, and so forth. And anyone whatever can join these societies. Moreover, subscription lists are, so to speak, continually sent out among us, in which contributions are requested for one or another of our common undertakings.
+
+None of us therefore needs to excuse himself by saying that we have no opportunity to do anything. The opportunity we have, but whether we have the will is another matter. Yet there is One of whom it is written that he works in us both to will and to do according to his good pleasure. And if only he is allowed to rule in our heart and our life, we shall become warmer and more zealous friends of our home mission and foreign mission as the days pass and as we consider that many of us, at least, have come far on in the day of our life.
+
+It will become with us as with Paul: for me to live is Christ. He becomes the One whom you desire to please and to whom you desire to be acceptable, the One in whose service you count it your honor and find your joy.
+
+And this inward impulse toward work is the work of the Spirit of God in you. There is certainly much that will hinder us in
+
+Page 321
+
+this work. But he who has appointed us to his service has also given us his gifts in order that we may be made complete for the work of ministry.
+
+In this way it is that the congregation, which is the body of Christ, advances more and more toward the form it is appointed to have, and becomes a means of salvation for the world in which it is set as the light upon the lampstand and the city upon the hill.
+
+Can this goal be reached? Yes, but not until it becomes clear to all true members of the congregation that their calling is work, the work of service, and until they are willing to follow the call.
+
+Here lies the difficulty also in the question of solving the common task we have, which is called our home mission. It will never be solved in the way it ought to be so long as our congregations and individual friends push the thought of it and the responsibility for it away from themselves and seek to quiet their conscience with the consolation that, when they work for foreign mission and the school for pastors, others can take care of this petty business called home mission. No, the one ought to be done, and the other not neglected.

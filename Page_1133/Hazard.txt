@@ -1,0 +1,200 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards
+
+* “kredsmøte” — literally a “district meeting” or “circuit meeting.” In the Free Church context, it refers to a meeting of a regional ecclesiastical district. “District meeting” preserves the institutional sense without importing a specifically Methodist meaning from “circuit.”
+* “det kristne haab” — “the Christian hope.” This is not merely optimism but the eschatological and soteriological hope grounded in God’s promise.
+* “det haab som ikke beskjæmmer” — a direct biblical formulation from Romans 5:5. “The hope that does not put to shame” is preferable to the older English “maketh not ashamed,” since archaic English is to be avoided.
+* “Guds kjærlighet er utøst i vore hjerter” — biblical theological diction: God’s love is “poured out into/in our hearts.”
+* “indlede” / “indledningsforedrag” — in this ecclesiastical setting, not simply “introduce,” but to give an opening exposition that frames a biblical passage for subsequent discussion.
+* “Guds ord” — may mean either “the Word of God” broadly or, contextually, the particular Scripture passage under consideration. The capitalization and phrasing should preserve its theological weight.
+* “rettroende” — “orthodox,” in the doctrinal sense of holding right teaching, rather than merely “correct.”
+* “frelsesveien” — “the way of salvation,” a traditional theological expression.
+* “samaritanersind” — literally “Samaritan disposition/mind.” It denotes the merciful disposition exemplified by the Good Samaritan. “The Samaritan spirit” risks ambiguity; “the mind of the Samaritan” or “a Samaritan disposition” better preserves the ethical reference.
+* “for sin aands øie” — literally “before the eye of his spirit/mind,” an older idiom meaning to have something inwardly before one’s vision or consciousness.
+* “nidkjært til gode gjerninger” — biblically resonant phrase, “zealous for good works.”
+* “fallen blandt røvere” — biblical diction from the parable of the Good Samaritan: “fallen among robbers.”
+* “hjemmemissionen” / “indremissionen” — “home mission” / “inner mission.” “Inner mission” is a historically specific Scandinavian Lutheran movement of evangelistic and pastoral work among nominal Christians.
+* “hedningemissionen” — literally “mission to the heathen.” Historically and theologically accurate, but “foreign mission” would soften the original. “Mission to the heathen” preserves the period’s missionary terminology, though it is marked in modern English.
+* “nybygget” — likely refers to newly settled districts or frontier settlements, not newly constructed buildings.
+* “glemme sin sjæl og sin Gud” — solemn pietistic language: “forget his soul and his God.”
+* “sikre forvisning” — strong certainty, “firm conviction.”
+* “bære nogen frugt” — biblical metaphor: “bear some fruit.”
+* “menighetslivet” — “congregational life” or “the life of the congregations.”
+* “fællesgjøremaal” — common enterprises, undertakings, or causes shared by the church.
+* “Augsburg” — likely a denominational or institutional cause/project known to the original readership rather than a general reference to the Augsburg Confession. It should not be silently expanded without evidence.
+* “barmhjærtighetsarbeidet” — “the work of mercy” or “charitable work.” In ecclesiastical usage, “work of mercy” preserves the Christian ethical resonance.
+
+Syntactic Hazards
+
+* The prose regularly accumulates thought through extended clauses joined by commas, semicolons, and causal or explanatory transitions. These should not be broken excessively into short modern sentences.
+* Several sentences move from observation to theological judgment without explicit modern transitions; the translation should preserve this direct movement.
+* The sentence summarizing Sandanger’s exposition culminates in a contrast: membership in God’s people, religious experiences, and orthodox views of salvation are insufficient; what is required is a life whose task is mercy. The cumulative structure must remain visible.
+* “Jesus hadde for sin aands øie, naar han talte disse ord et Guds folk...” has an older word order. The underlying sense is that when Jesus spoke these words, he had before his mind a people of God zealous for good works.
+* Repetition of “se Jesus” is rhetorically deliberate and must not be varied merely for English elegance.
+* The author’s movement from report to personal criticism — “Om jeg skulde peke paa noget...” — should retain its restrained but definite evaluative force.
+* The final sentence contains a compact enumeration of common church concerns. The colon and list-like cadence should be retained.
+
+Theological Hazards
+
+* The opening language of hope, divine love, and the heart echoes Pauline soteriology and should retain that scriptural density.
+* The summary of the Good Samaritan discussion can be misread as salvation by works if translated carelessly. The author reports Sandanger’s formulation, in which outward religious status, experience, and doctrinal orthodoxy do not avail unto salvation apart from a life characterized by mercy. The tension should be preserved rather than harmonized.
+* “se Jesus” is not merely visual perception but spiritually apprehending Jesus as “the Savior of the world” and “their Savior.”
+* “samaritanersind” connects mercy with the prior apprehension of Christ. This causal theological relation matters.
+* “glemme sin sjæl og sin Gud” invokes spiritual peril, not mere loss of religious interest.
+* “bære nogen frugt” has biblical ethical and spiritual resonance and should remain metaphorical.
+* “barmhjertighet” / “barmhjærtighetsarbeidet” should be rendered consistently around “mercy,” not alternately flattened into “kindness,” “aid,” or generic philanthropy.
+* “Guds folk” should remain “God’s people,” carrying covenantal and ecclesial significance.
+
+Voice Hazards
+
+* The article combines journalistic reporting with devotional seriousness. It should not become either casual reportage or highly ornamented sermon prose.
+* The first-person observations are modest but authoritative: “it seemed to me,” “I have myself felt,” “it is my firm conviction.” Their restraint should be preserved.
+* The criticism of the meeting is gentle in form but serious in substance. The author believes insufficient attention was given to those represented by the wounded man in the parable—that is, to mission.
+* The prose contains a characteristic Lutheran-pietistic pressure toward lived Christianity. Modern phrasing such as “putting faith into action” would be too smooth and contemporary.
+* Repetition is often purposeful, especially “se Jesus.” It should not be stylistically eliminated.
+
+STEP 2: IDIOM ANALYSIS
+
+* “det haab som ikke beskjæmmer” echoes Romans 5:5. The underlying sense is that Christian hope does not end in disgrace or disappointment because God’s love has been poured into believers’ hearts.
+* “Guds kjærlighet er utøst i vore hjerter” also comes from Romans 5:5. “Poured out in our hearts” or “poured into our hearts” preserves both the image and the theological relation.
+* “at indlede et Guds ord” is ecclesiastical idiom for presenting an introductory exposition of a Scripture text before discussion. Literal “introduce a Word of God” would sound unnatural and obscure the practice.
+* “Summen av hans tanker” means the substance or sum of his thought, not a numerical “sum.”
+* “frelsesveien” is conventional devotional language for “the way of salvation.”
+* “for sin aands øie” denotes inward apprehension: “before his mind’s eye.” Since “mind’s eye” is idiomatic English but slightly less theological than the original, “before his inward eye” could also work; “before his mind’s eye” is clearest.
+* “nidkjært til gode gjerninger” likely echoes Titus 2:14, “zealous for good works.” This should be preserved closely.
+* “se Jesus” may carry broader biblical resonance, including the blessedness of seeing what prophets and kings desired to see, as well as spiritually recognizing Christ’s identity.
+* “Salige er de øine som ser det I ser” is from Luke 10:23, not from the stated discussion passage Luke 18:23–37. The citation in the article likely reflects the speaker’s use of another Gospel text during discussion.
+* “falden blandt røvere” is from Luke 10:30 in the Good Samaritan narrative. The stated reference “Luk. 18, 23—37” is almost certainly a printing or transcription error for Luke 10:23–37, because the ensuing discussion concerns the Good Samaritan and quotes Luke 10:23.
+* “i forbigaaende” means “in passing.”
+* “arbeide med Guds ord blandt vort folk” means evangelistic or pastoral labor through proclamation and teaching of Scripture, not merely “work with the Bible.”
+* “glemme sin sjæl og sin Gud” is a pietistic warning that material or frontier life may lead people to spiritual neglect and estrangement from God.
+* “bære nogen frugt” evokes the biblical metaphor of spiritual fruitfulness. Literal translation is fully intelligible and desirable.
+* “til stor velsignelse” is devotional idiom meaning that something would greatly benefit or spiritually bless congregational life. “A great blessing” retains its theological character.
+
+King James Bible Correspondences
+
+* Romans 5:5 traditionally gives “hope maketh not ashamed” and “the love of God is shed abroad in our hearts.” Because the translation profile requires modern pronouns and resists inherited KJV tone, the structure may be preserved without “maketh” or the highly marked “shed abroad.”
+* Titus 2:14 gives the familiar “zealous of good works.” Modern English “zealous for good works” preserves the resonance naturally.
+* Luke 10:23 in the KJV has “Blessed are the eyes which see the things that ye see.” A modern-pronoun equivalent can retain the parallel cadence: “Blessed are the eyes that see what you see.”
+* Luke 10:30 contains “fell among thieves.” “Fell among robbers” is both more exact and less dependent on archaic KJV wording.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* The article opens as a report from a church district meeting.
+* First, Pastor Joh. Skonnord’s sermon is summarized. Its central theme is Christian hope, specifically the richness of possessing the hope that does not put to shame because God’s love has been poured into the heart.
+* The narrative then turns to the principal discussion text, evidently the Good Samaritan passage.
+* Pastor Gustav Sandanger’s introductory exposition is praised as carefully prepared and particularly effective in leading the assembly into the thought of the text.
+* The author then reflects personally on the difficulty of giving such an introduction, thereby strengthening his praise of Sandanger.
+* He summarizes Sandanger’s apparent thesis: neither belonging to God’s people, nor having religious experiences, nor possessing orthodox views of salvation is sufficient unto salvation; rather, the matter concerns a life whose task is to show mercy.
+* A further doctrinal-historical observation follows: Jesus was addressing a people of God who were zealous for good works.
+* The discussion then shifts toward the spiritual precondition for possessing the Samaritan disposition: one must “see Jesus.”
+* This point is intensified through repeated emphasis that Jesus must be seen as the disciples saw him: as the Savior of the world and as their own Savior.
+* The author then introduces his principal criticism of the meeting: too little was said about the man who fell among robbers.
+* He interprets this omission ecclesially and missionally: too little was said about mission, both home mission and mission to the heathen.
+* One pastor’s remarks on home or inner mission are then reported approvingly. Congregations must support work among people in newly settled regions who are in danger of forgetting their souls and their God.
+* The author concludes with confidence that the meeting will bear fruit for some who attended.
+* Since a fuller official report will be published, he deliberately omits details.
+* The final appeal broadens from this particular meeting to the denomination as a whole: every district should use one of its meetings to address the church’s common undertakings—Augsburg, the missions, and the work of mercy.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* “det haab som ikke beskjæmmer” — Romans 5:5.
+* “Guds kjærlighet er utøst i vore hjerter” — Romans 5:5.
+* The stated text “Luk. 18, 23—37” is almost certainly intended to be Luke 10:23–37, given the explicit references to the Samaritan and the man who fell among robbers.
+* “Salige er de øine som ser det I ser” — Luke 10:23.
+* “samaritanersind” — based on the Good Samaritan, Luke 10:30–37.
+* “falden blandt røvere” — Luke 10:30.
+* “nidkjært til gode gjerninger” — strong verbal echo of Titus 2:14; compare also Titus 3:8 and 3:14.
+* “bære nogen frugt” — broad biblical fruit imagery, especially John 15 and Pauline ethical language.
+* “glemme sin sjæl og sin Gud” is not necessarily a direct quotation but belongs to a broad biblical-devotional vocabulary of remembering God, losing or neglecting the soul, and spiritual peril.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* The author’s praise of Sandanger should remain measured rather than enthusiastic in a modern journalistic sense.
+* His summary of the exposition must retain its severe claim that neither ecclesial belonging, religious experience, nor doctrinal orthodoxy is sufficient.
+* The repeated demand to “see Jesus” must retain its spiritual urgency.
+* The criticism that too little was said about the man among robbers must retain its implied rebuke of an inwardly focused church meeting.
+* The warning that settlers may “forget their soul and their God” should remain stark. It must not become “lose touch with their faith.”
+* The closing appeal for districts to address the church’s common tasks should retain its sense of obligation and spiritual opportunity.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* “Det hjælper ikke til frelse...” is categorical: these things “do not avail unto salvation” or “do not help toward salvation.” It should not be weakened to “are not necessarily enough.”
+* “betingelsen ... var” means “the condition ... was,” not merely “one helpful factor.”
+* “skulde peke paa” is a conditional rhetorical form: “If I were to point to something...” It softens the manner of criticism without weakening the criticism itself.
+* “gjøre det mulig” retains necessity at the practical level: congregational support must “make it possible” for the work to be done.
+* “vil bære nogen frugt” expresses confident expectation, not mere possibility: “will bear some fruit.”
+* “kunde behandle” in the final sentence occurs within an aspiration: “if every district ... could take up...” It should not be hardened into an absolute command, though the author clearly commends the practice.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* haab → hope
+* Guds kjærlighet → God’s love
+* Guds folk → God’s people
+* Guds ord → the Word of God / this word of God, according to grammatical context
+* frelse → salvation
+* frelsesveien → the way of salvation
+* barmhjertighet → mercy
+* samaritanersind → Samaritan disposition
+* frelser → Savior
+* sjæl → soul
+* Gud → God
+* mission → mission
+* hjemmemission → home mission
+* indremission → inner mission
+* hedningemission → mission to the heathen
+* frugt → fruit
+* menighet → congregation
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* “hope that does not put to shame” should remain a personified moral image rather than be paraphrased as “a dependable hope.”
+* God’s love being “poured out” must retain the pouring metaphor.
+* Being led “into the thoughts of the text” should retain the spatial/intellectual movement if natural English permits.
+* “before his mind’s eye” preserves the visual metaphor of inward perception.
+* “see Jesus” must remain “see,” not be converted to “understand,” “recognize,” or “experience.”
+* “fallen among robbers” must preserve the narrative image.
+* “bear some fruit” must remain metaphorical.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* The opening is affirmative and consolatory: Christian hope is a great richness.
+* The discussion of salvation and mercy introduces sharper ethical pressure.
+* The emphasis on seeing Jesus introduces Christological consolation and grounding.
+* The author’s criticism of inadequate missionary attention turns the tone toward admonition.
+* The warning concerning people in newly settled areas heightens the spiritual seriousness.
+* The conclusion returns to hope: the meeting will bear fruit.
+* The final sentence broadens this hope into a practical ecclesial exhortation.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Long sentences should be retained where the original gathers several parallel claims.
+* Repeated phrases such as “see Jesus” should remain audible and emphatic.
+* The sequence “as the Savior of the world, their Savior” should retain its narrowing movement from universal title to personal appropriation.
+* The threefold closing enumeration — “Augsburg, the missions, and the work of mercy” — should retain its compact final cadence.
+* Semicolons and commas should carry the argument rather than replacing every shift with a new sentence.
+* The prose should remain suitable for oral reading: serious, steady, and cumulative rather than compressed into modern informational prose.
+
+STEP 11: ACADEMIC TRANSLATION
+
+A Little from Our District Meeting.
+——
+
+Pastor Joh. Skonnord began with the sermon. His subject was the Christian hope. Among other things, he said that it was a great riches to possess the hope that does not put to shame, because God’s love has been poured out in our hearts.
+
+The subject for discussion, Luke 10:23–37, was introduced by Pastor Gustav Sandanger of Vattle Læke. It was easy to understand that the speaker had devoted much labor to the introductory address he gave, and it was especially well suited to lead us into the thoughts of the text. To “introduce” a word of God, or any other subject for Christian discussion, is a very difficult matter, which few are able to accomplish. I myself have felt the difficulty very keenly when I have had the task of giving such an introduction. Pastor Sandanger made a very good attempt at introducing the word of God before us. The sum of his thoughts concerning this passage of Scripture seemed to me capable of being formulated thus: Neither belonging to God’s people, nor having religious experiences, nor possessing orthodox views of the way of salvation avails unto salvation, but a life whose task is to show mercy.
+
+When Jesus spoke these words, he had before his mind’s eye a people of God who were zealous for good works.
+
+During the discussion of this word of God, several emphasized that the condition for coming into possession of a Samaritan disposition was to be permitted to “see Jesus”: “Blessed are the eyes that see what you see,” Jesus says to his disciples.
+
+During the discussion, in which many of the pastors present took part, the importance of being permitted to “see Jesus” was emphasized with great force: to see him in the way the disciples saw him, as the Savior of the world, their Savior.
+
+If I were to point to something that seemed to me to have been neglected at the district meeting, I would mention that little was said about the man who had fallen among robbers. In other words, it seemed to me that too little was said about mission, home mission, and mission to the heathen. There was, however, one of the pastors who spoke briefly, in passing, about home or inner mission. He emphasized how important it is for our congregations to support this work and to make it possible to labor with the Word of God among our people who live in the newly settled districts and who there are exposed to the danger of forgetting their soul and their God. It is my firm conviction that this district meeting will bear some fruit for several of those who attended it.
+
+Since the secretary is publishing a complete report of the meeting, I shall pass over the details. I believe it would be a great blessing to the life of the congregations if every district in the Free Church, at one of its district meetings, could take up our common undertakings: Augsburg, the missions, and the work of mercy.
+
+E. B.
+
+
