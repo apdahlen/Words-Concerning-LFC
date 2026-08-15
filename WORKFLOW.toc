@@ -1,6 +1,14 @@
-\contentsline {section}{\numberline {1}What the Free Church Needs Most}{1}{section.1}%
-\contentsline {section}{\numberline {2}How We Receive What We Need}{3}{section.2}%
-\contentsline {section}{\numberline {3}What Our Meetings Are For}{5}{section.3}%
-\contentsline {section}{\numberline {4}What True Edification Is}{8}{section.4}%
-\contentsline {section}{\numberline {5}Preparing for the Work}{11}{section.5}%
-\contentsline {section}{\numberline {6}What result are we seeking?}{14}{section.6}%
+\contentsline {section}{\numberline {1}Concerning the Lutheran Free Church and Its Tasks}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}What the Free Church Needs Most}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}How We Receive What We Need}{3}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}What Our Meetings Are For}{5}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}What True Edification Is}{8}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Preparing for the Work}{11}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}What result are we seeking?}{14}{subsection.1.6}%
+\contentsline {section}{\numberline {2}The kingdom of heaven is like a householder who went out to hire laborers for his vineyard.}{17}{section.2}%
+\contentsline {section}{\numberline {3}Why Does the Lutheran Free Church Attempt to Carry On Home Mission Work?}{19}{section.3}%
+\contentsline {section}{\numberline {4}A Little from Our District Meeting}{20}{section.4}%
+\contentsline {section}{\numberline {5}Joy in Heaven}{21}{section.5}%
+\contentsline {section}{\numberline {6}Your Father is Merciful}{23}{section.6}%
+\contentsline {section}{\numberline {7}Where Can Anyone Get Bread?}{25}{section.7}%
+\contentsline {section}{\numberline {8}The Samaritan}{27}{section.8}%
