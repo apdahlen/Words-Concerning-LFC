@@ -8,7 +8,9 @@ https://www.georgsverdrupsociety.org/translations/Samlade_Skrifter_II_54-100_The
 
 
 
-Consider:
+Can this AI content be incorporated into the forward?
+
+----
 
 Veith gives an ecclesial vocation. Sverdrup gives a vocational ecclesiology.
 
